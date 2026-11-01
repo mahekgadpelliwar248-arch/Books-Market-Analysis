@@ -1,0 +1,1001 @@
+Book_Name,Category,Price,Rating,Availability,Page,First_Word,Book_Number,Has_Special_Character,Price_Category,Rating_Category,Availability_Status,Title_Numbers,Subtitle
+A Light in the Attic,Poetry,51.77,3,In stock,1,A,,False,Premium,Average,Available,[],
+Tipping the Velvet,Historical Fiction,53.74,1,In stock,1,Tipping,,False,Premium,Low,Available,[],
+Soumission,Fiction,50.1,1,In stock,1,Soumission,,False,Premium,Low,Available,[],
+Sharp Objects,Mystery,47.82,4,In stock,1,Sharp,,False,Premium,High,Available,[],
+Sapiens: A Brief History of Humankind,History,54.23,5,In stock,1,Sapiens,,True,Premium,High,Available,[],A Brief History of Humankind
+The Requiem Red,Young Adult,22.65,1,In stock,1,The,,False,Medium,Low,Available,[],
+The Dirty Little Secrets of Getting Your Dream Job,Business,33.34,4,In stock,1,The,,False,Medium,High,Available,[],
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Uncategorized,17.93,3,In stock,1,The,,True,Low,Average,Available,[],"A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull"
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Uncategorized,22.6,4,In stock,1,The,1936,True,Medium,High,Available,['1936'],Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+The Black Maria,Poetry,52.15,1,In stock,1,The,,False,Premium,Low,Available,[],
+"Starving Hearts (Triangular Trade Trilogy, #1)",Uncategorized,13.99,2,In stock,1,Starving,1,True,Low,Low,Available,['1'],
+Shakespeare's Sonnets,Poetry,20.66,4,In stock,1,Shakespeare,,True,Low,High,Available,[],
+Set Me Free,Young Adult,17.46,5,In stock,1,Set,,False,Low,High,Available,[],
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sequential Art,52.29,5,In stock,1,Scott,1,True,Premium,High,Available,['1'],
+Rip it Up and Start Again,Music,35.02,5,In stock,1,Rip,,False,Medium,High,Available,[],
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Music,57.25,3,In stock,1,Our,1981,True,Premium,Average,Available,"['1981', '1991']","Scenes from the American Indie Underground, 1981-1991"
+Olio,Poetry,23.88,1,In stock,1,Olio,,False,Medium,Low,Available,[],
+Mesaerion: The Best Science Fiction Stories 1800-1849,Science Fiction,37.59,1,In stock,1,Mesaerion,1800,True,High,Low,Available,"['1800', '1849']",The Best Science Fiction Stories 1800-1849
+Libertarianism for Beginners,Politics,51.33,2,In stock,1,Libertarianism,,False,Premium,Low,Available,[],
+It's Only the Himalayas,Travel,45.17,2,In stock,1,It,,True,High,Low,Available,[],
+In Her Wake,Thriller,12.84,1,In stock,2,In,,False,Low,Low,Available,[],
+How Music Works,Music,37.32,2,In stock,2,How,,False,High,Low,Available,[],
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Food and Drink,30.52,3,In stock,2,Foolproof,,True,Medium,Average,Available,[],"A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More"
+Chase Me (Paris Nights #2),Romance,25.27,5,In stock,2,Chase,2,True,Medium,High,Available,['2'],
+Black Dust,Romance,34.53,5,In stock,2,Black,,False,Medium,High,Available,[],
+Birdsong: A Story in Pictures,Childrens,54.64,3,In stock,2,Birdsong,,True,Premium,Average,Available,[],A Story in Pictures
+America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Uncategorized,22.5,3,In stock,2,America,,True,Medium,Average,Available,[],Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana
+Aladdin and His Wonderful Lamp,Uncategorized,53.13,3,In stock,2,Aladdin,,False,Premium,Average,Available,[],
+Worlds Elsewhere: Journeys Around Shakespeareâs Globe,Nonfiction,40.3,5,In stock,2,Worlds,,True,High,High,Available,[],Journeys Around Shakespeareâs Globe
+Wall and Piece,Art,44.18,4,In stock,2,Wall,,False,High,High,Available,[],
+The Four Agreements: A Practical Guide to Personal Freedom,Spirituality,17.66,5,In stock,2,The,,True,Low,High,Available,[],A Practical Guide to Personal Freedom
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Nonfiction,31.05,3,In stock,2,The,,True,Medium,Average,Available,[],How to Express Heartfelt Commitment to Your Mate
+The Elephant Tree,Thriller,23.82,5,In stock,2,The,,False,Medium,High,Available,[],
+The Bear and the Piano,Childrens,36.89,1,In stock,2,The,,False,High,Low,Available,[],
+Sophie's World,Philosophy,15.94,5,In stock,2,Sophie,,True,Low,High,Available,[],
+Penny Maybe,Uncategorized,33.29,3,In stock,2,Penny,,False,Medium,Average,Available,[],
+Maude (1883-1993):She Grew Up with the country,Uncategorized,18.02,2,In stock,2,Maude,1883,True,Low,Low,Available,"['1883', '1993']",She Grew Up with the country
+"In a Dark, Dark Wood",Mystery,19.63,1,In stock,2,In,,True,Low,Low,Available,[],
+Behind Closed Doors,Thriller,52.22,4,In stock,2,Behind,,False,Premium,High,Available,[],
+You can't bury them all: Poems,Poetry,33.63,2,In stock,2,You,,True,Medium,Low,Available,[],Poems
+Slow States of Collapse: Poems,Poetry,57.31,3,In stock,3,Slow,,True,Premium,Average,Available,[],Poems
+Reasons to Stay Alive,Nonfiction,26.41,2,In stock,3,Reasons,,False,Medium,Low,Available,[],
+Private Paris (Private #10),Fiction,47.61,5,In stock,3,Private,10,True,Premium,High,Available,['10'],
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,Nonfiction,23.11,5,In stock,3,,,True,Medium,High,Available,[],Wake Up Your Life. Free Your Soul. Find Your Tribe.
+Without Borders (Wanderlove #1),New Adult,45.07,2,In stock,3,Without,1,True,High,Low,Available,['1'],
+When We Collided,Contemporary,31.77,1,In stock,3,When,,False,Medium,Low,Available,[],
+"We Love You, Charlie Freeman",Fiction,50.27,5,In stock,3,We,,True,Premium,High,Available,[],
+Untitled Collection: Sabbath Poems 2014,Poetry,14.27,4,In stock,3,Untitled,2014,True,Low,High,Available,['2014'],Sabbath Poems 2014
+"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",Nonfiction,44.18,4,In stock,3,Unseen,,True,High,High,Available,[],"The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness"
+Unicorn Tracks,Fantasy,18.78,3,In stock,3,Unicorn,,False,Low,Average,Available,[],
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",History,25.52,1,In stock,3,Unbound,,True,Medium,Low,Available,[],"How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink"
+Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),Sequential Art,16.28,1,In stock,3,Tsubasa,2,True,Low,Low,Available,"['2', '2']",WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,Nonfiction,31.12,3,In stock,3,Throwing,,True,Medium,Average,Available,[],How Growth Became the Enemy of Prosperity
+This One Summer,Sequential Art,19.49,4,In stock,3,This,,False,Low,High,Available,[],
+Thirst,Fiction,17.27,5,In stock,3,Thirst,,False,Low,High,Available,[],
+The Torch Is Passed: A Harding Family Story,Uncategorized,19.09,1,In stock,3,The,,True,Low,Low,Available,[],A Harding Family Story
+The Secret of Dreadwillow Carse,Childrens,56.13,1,In stock,3,The,,False,Premium,Low,Available,[],
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Food and Drink,56.41,1,In stock,3,The,16,True,Premium,Low,Available,['16'],"Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!"
+The Past Never Ends,Mystery,56.5,4,In stock,3,The,,False,Premium,High,Available,[],
+The Natural History of Us (The Fine Art of Pretending #2),Young Adult,45.22,3,In stock,3,The,2,True,High,Average,Available,['2'],
+The Nameless City (The Nameless City #1),Sequential Art,38.16,4,In stock,4,The,1,True,High,High,Available,['1'],
+The Murder That Never Was (Forensic Instincts #5),Fiction,54.11,3,In stock,4,The,5,True,Premium,Average,Available,['5'],
+The Most Perfect Thing: Inside (and Outside) a Bird's Egg,Science,42.96,4,In stock,4,The,,True,High,High,Available,[],Inside (and Outside) a Bird's Egg
+"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",Uncategorized,23.89,4,In stock,4,The,,True,Medium,High,Available,[],"A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy"
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Nonfiction,16.77,3,In stock,4,The,,True,Low,Average,Available,[],The Japanese Art of Decluttering and Organizing
+"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",Uncategorized,20.59,5,In stock,4,The,,True,Low,High,Available,[],"Time Management Tactics for Working Smarter, Not Longer"
+The Gutsy Girl: Escapades for Your Life of Epic Adventure,Nonfiction,37.13,1,In stock,4,The,,True,High,Low,Available,[],Escapades for Your Life of Epic Adventure
+The Electric Pencil: Drawings from Inside State Hospital No. 3,Nonfiction,56.06,1,In stock,4,The,3,True,Premium,Low,Available,['3'],Drawings from Inside State Hospital No. 3
+The Death of Humanity: and the Case for Life,Philosophy,58.11,4,In stock,4,The,,True,Premium,High,Available,[],and the Case for Life
+"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",Health,49.05,3,In stock,4,The,,True,Premium,Average,Available,[],"Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life"
+The Art Forger,Uncategorized,40.76,3,In stock,4,The,,False,High,Average,Available,[],
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,History,19.73,1,In stock,4,The,,True,Low,Low,Available,[],The Seventeenth Century and the Birth of the Modern Mind
+The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,Spirituality,32.24,5,In stock,4,The,,True,Medium,High,Available,[],Ancient Advice for a Modern Revolution
+Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,Nonfiction,41.83,4,In stock,4,Spark,,True,High,High,Available,[],An Illustrated Master Class on the Art of Organizing and Tidying Up
+Soul Reader,Uncategorized,39.58,2,In stock,4,Soul,,False,High,Low,Available,[],
+Security,Horror,39.25,2,In stock,4,Security,,False,High,Low,Available,[],
+"Saga, Volume 6 (Saga (Collected Editions) #6)",Fantasy,25.02,3,In stock,4,Saga,6,True,Medium,Average,Available,"['6', '6']",
+"Saga, Volume 5 (Saga (Collected Editions) #5)",Sequential Art,51.04,2,In stock,4,Saga,5,True,Premium,Low,Available,"['5', '5']",
+Reskilling America: Learning to Labor in the Twenty-First Century,Nonfiction,19.83,2,In stock,4,Reskilling,,True,Low,Low,Available,[],Learning to Labor in the Twenty-First Century
+"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",Sequential Art,50.4,3,In stock,4,Rat,3,True,Premium,Average,Available,"['3', '11', '15']",Demons (Rat Queens (Collected Editions) #11-15)
+"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",Sequential Art,13.61,5,In stock,5,Princess,2,True,Low,High,Available,"['2', '1', '01', '2', '1', '1']",
+Princess Between Worlds (Wide-Awake Princess #5),Fantasy,13.34,5,In stock,5,Princess,5,True,Low,High,Available,['5'],
+"Pop Gun War, Volume 1: Gift",Sequential Art,18.97,1,In stock,5,Pop,1,True,Low,Low,Available,['1'],Gift
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",History,36.28,2,In stock,5,Political,,True,High,Low,Available,[],"Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics"
+Patience,Sequential Art,10.16,3,In stock,5,Patience,,False,Low,Average,Available,[],
+"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",Sequential Art,15.44,4,In stock,5,Outcast,1,True,Low,High,Available,"['1', '1']",A Darkness Surrounds Him (Outcast #1)
+orange: The Complete Collection 1 (orange: The Complete Collection #1),Sequential Art,48.41,1,In stock,5,orange,1,True,Premium,Low,Available,"['1', '1']",The Complete Collection 1 (orange: The Complete Collection #1)
+Online Marketing for Busy Authors: A Step-By-Step Guide,Self Help,46.35,1,In stock,5,Online,,True,High,Low,Available,[],A Step-By-Step Guide
+On a Midnight Clear,Uncategorized,14.07,3,In stock,5,On,,False,Low,Average,Available,[],
+Obsidian (Lux #1),Young Adult,14.86,2,In stock,5,Obsidian,1,True,Low,Low,Available,['1'],
+My Paris Kitchen: Recipes and Stories,Food and Drink,33.37,2,In stock,5,My,,True,Medium,Low,Available,[],Recipes and Stories
+Masks and Shadows,Fantasy,56.4,2,In stock,5,Masks,,False,Premium,Low,Available,[],
+"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",Food and Drink,14.02,4,In stock,5,Mama,,True,Low,High,Available,[],"Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed"
+"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",Sequential Art,46.91,2,In stock,5,Lumberjanes,2,True,High,Low,Available,"['2', '5', '8']",Friendship to the Max (Lumberjanes #5-8)
+"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",Sequential Art,45.61,3,In stock,5,Lumberjanes,1,True,High,Average,Available,"['1', '1', '4']",Beware the Kitten Holy (Lumberjanes #1-4)
+Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),Sequential Art,19.92,2,In stock,5,Lumberjanes,3,True,Low,Low,Available,"['3', '9', '12']",A Terrible Plan (Lumberjanes #9-12)
+"Layered: Baking, Building, and Styling Spectacular Cakes",Food and Drink,40.11,1,In stock,5,Layered,,True,High,Low,Available,[],"Baking, Building, and Styling Spectacular Cakes"
+Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),Uncategorized,53.9,2,In stock,5,Judo,,True,Premium,Low,Available,[],Seven Steps to Black Belt (an Introductory Guide for Beginners)
+Join,Science Fiction,35.67,5,In stock,5,Join,,False,Medium,High,Available,[],
+In the Country We Love: My Family Divided,Nonfiction,22.0,4,In stock,5,In,,True,Low,High,Available,[],My Family Divided
+Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,Science,57.36,5,In stock,6,Immunity,,True,Premium,High,Available,[],How Elie Metchnikoff Changed the Course of Modern Medicine
+"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",Sequential Art,29.17,2,In stock,6,I,1,True,Medium,Low,Available,"['1', '1', '5']",Madly Ever After (I Hate Fairyland (Compilations) #1-5)
+I am a Hero Omnibus Volume 1,Sequential Art,54.63,3,In stock,6,I,1,False,Premium,Average,Available,['1'],
+How to Be Miserable: 40 Strategies You Already Use,Self Help,46.03,1,In stock,6,How,40,True,High,Low,Available,['40'],40 Strategies You Already Use
+Her Backup Boyfriend (The Sorensen Family #1),Romance,33.97,1,In stock,6,Her,1,True,Medium,Low,Available,['1'],
+"Giant Days, Vol. 2 (Giant Days #5-8)",Sequential Art,22.11,2,In stock,6,Giant,2,True,Medium,Low,Available,"['2', '5', '8']",
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,Historical Fiction,29.69,3,In stock,6,Forever,,True,Medium,Average,Available,[],The Courtship of Henry Longfellow and Fanny Appleton
+First and First (Five Boroughs #3),Romance,15.97,4,In stock,6,First,3,True,Low,High,Available,['3'],
+Fifty Shades Darker (Fifty Shades #2),Romance,21.96,1,In stock,6,Fifty,2,True,Low,Low,Available,['2'],
+Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,Nonfiction,54.35,2,In stock,6,Everydata,,True,Premium,Low,Available,[],The Misinformation Hidden in the Little Data You Consume Every Day
+"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",Religion,37.97,2,In stock,6,Don,,True,High,Low,Available,[],"And Other Practical Advice from Dogen, Japan's Greatest Zen Master"
+Danganronpa Volume 1,Sequential Art,51.99,4,In stock,6,Danganronpa,1,False,Premium,High,Available,['1'],
+Crown of Midnight (Throne of Glass #2),Fantasy,43.29,3,In stock,6,Crown,2,True,High,Average,Available,['2'],
+"Codename Baboushka, Volume 1: The Conclave of Death",Sequential Art,36.72,4,In stock,6,Codename,1,True,High,High,Available,['1'],The Conclave of Death
+Camp Midnight,Sequential Art,17.08,4,In stock,6,Camp,,False,Low,High,Available,[],
+Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,Nonfiction,29.14,5,In stock,6,Call,,True,Medium,High,Available,[],True Stories of a Country Nurse on a Scottish Isle
+Burning,Young Adult,28.81,3,In stock,6,Burning,,False,Medium,Average,Available,[],
+Bossypants,Uncategorized,49.46,2,In stock,6,Bossypants,,False,Premium,Low,Available,[],
+"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",Sequential Art,37.92,2,In stock,6,Bitch,1,True,High,Low,Available,['1'],Extraordinary Machine (Bitch Planet (Collected Editions))
+"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",Fantasy,28.09,2,In stock,6,Avatar,3,True,Medium,Low,Available,"['3', '3']","The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)"
+Algorithms to Live By: The Computer Science of Human Decisions,Nonfiction,30.81,1,In stock,7,Algorithms,,True,Medium,Low,Available,[],The Computer Science of Human Decisions
+A World of Flavor: Your Gluten Free Passport,Uncategorized,42.95,1,In stock,7,A,,True,High,Low,Available,[],Your Gluten Free Passport
+"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",Uncategorized,56.76,5,In stock,7,A,,True,Premium,High,Available,[],A Memoir in Four Meditations
+A Murder in Time,Mystery,16.64,1,In stock,7,A,,False,Low,Low,Available,[],
+A Flight of Arrows (The Pathfinders #2),Historical Fiction,55.53,5,In stock,7,A,2,True,Premium,High,Available,['2'],
+A Fierce and Subtle Poison,Young Adult,28.13,4,In stock,7,A,,False,Medium,High,Available,[],
+A Court of Thorns and Roses (A Court of Thorns and Roses #1),Fantasy,52.37,1,In stock,7,A,1,True,Premium,Low,Available,['1'],
+(Un)Qualified: How God Uses Broken People to Do Big Things,Christian,54.0,5,In stock,7,,,True,Premium,High,Available,[],How God Uses Broken People to Do Big Things
+You Are What You Love: The Spiritual Power of Habit,Religion,21.87,4,In stock,7,You,,True,Low,High,Available,[],The Spiritual Power of Habit
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",Science Fiction,43.3,4,In stock,7,William,4,True,High,High,Available,['4'],"Verily, A New Hope (William Shakespeare's Star Wars #4)"
+Tuesday Nights in 1980,Fiction,21.04,2,In stock,7,Tuesday,1980,False,Low,Low,Available,['1980'],
+Tracing Numbers on a Train,Uncategorized,41.6,3,In stock,7,Tracing,,False,High,Average,Available,[],
+Throne of Glass (Throne of Glass #1),Fantasy,35.07,3,In stock,7,Throne,1,True,Medium,Average,Available,['1'],
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,History,59.64,1,In stock,7,Thomas,,True,Premium,Low,Available,[],The Forgotten War That Changed American History
+Thirteen Reasons Why,Uncategorized,52.72,1,In stock,7,Thirteen,,False,Premium,Low,Available,[],
+The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,Childrens,58.08,4,In stock,7,The,,True,Premium,High,Available,[],A Retelling of the Poem âPangur BÃ¡nâ
+The Wedding Dress,Romance,24.12,1,In stock,7,The,,False,Medium,Low,Available,[],
+The Vacationers,Fiction,42.15,4,In stock,7,The,,False,High,High,Available,[],
+The Third Wave: An Entrepreneurâs Vision of the Future,Business,12.61,5,In stock,7,The,,True,Low,High,Available,[],An Entrepreneurâs Vision of the Future
+The Stranger,Philosophy,17.44,4,In stock,7,The,,False,Low,High,Available,[],
+The Shadow Hero (The Shadow Hero),Sequential Art,33.14,1,In stock,8,The,,True,Medium,Low,Available,[],
+The Secret (The Secret #1),Uncategorized,27.37,4,In stock,8,The,1,True,Medium,High,Available,['1'],
+The Regional Office Is Under Attack!,Fiction,51.36,5,In stock,8,The,,True,Premium,High,Available,[],
+The Psychopath Test: A Journey Through the Madness Industry,Uncategorized,36.0,2,In stock,8,The,,True,High,Low,Available,[],A Journey Through the Madness Industry
+The Project,Science Fiction,10.65,1,In stock,8,The,,False,Low,Low,Available,[],
+The Power of Now: A Guide to Spiritual Enlightenment,Nonfiction,43.54,2,In stock,8,The,,True,High,Low,Available,[],A Guide to Spiritual Enlightenment
+The Omnivore's Dilemma: A Natural History of Four Meals,Nonfiction,38.21,2,In stock,8,The,,True,High,Low,Available,[],A Natural History of Four Meals
+The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,Food and Drink,37.34,5,In stock,8,The,,True,High,High,Available,[],Sweet Treats for the Geek in All of Us
+The Murder of Roger Ackroyd (Hercule Poirot #4),Mystery,44.1,4,In stock,8,The,4,True,High,High,Available,['4'],
+The Mistake (Off-Campus #2),New Adult,43.29,3,In stock,8,The,2,True,High,Average,Available,['2'],
+The Matchmaker's Playbook (Wingmen Inc. #1),New Adult,55.85,1,In stock,8,The,1,True,Premium,Low,Available,['1'],
+The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,Food and Drink,37.6,2,In stock,8,The,,True,High,Low,Available,[],An Apple-to-Zucchini Celebration of Impromptu Cooking
+The Long Shadow of Small Ghosts: Murder and Memory in an American City,Crime,10.97,1,In stock,8,The,,True,Low,Low,Available,[],Murder and Memory in an American City
+The Kite Runner,Uncategorized,41.82,4,In stock,8,The,,False,High,High,Available,[],
+The House by the Lake,Historical Fiction,36.95,1,In stock,8,The,,False,High,Low,Available,[],
+The Glittering Court (The Glittering Court #1),Fantasy,44.28,1,In stock,8,The,1,True,High,Low,Available,['1'],
+The Girl on the Train,Uncategorized,55.02,2,In stock,8,The,,False,Premium,Low,Available,[],
+The Genius of Birds,Nonfiction,17.24,1,In stock,8,The,,False,Low,Low,Available,[],
+The Emerald Mystery,Uncategorized,23.15,2,In stock,8,The,,False,Medium,Low,Available,[],
+The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,Food and Drink,41.25,1,In stock,8,The,125,True,High,Low,Available,['125'],125+ sweet & savory recipes reminding you to Always Eat Dessert First
+The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,Uncategorized,32.0,3,In stock,9,The,,True,Medium,Average,Available,[],I'm Writing the Bridge Between Science and Our Old and New Beliefs.
+The Artist's Way: A Spiritual Path to Higher Creativity,Nonfiction,38.49,5,In stock,9,The,,True,High,High,Available,[],A Spiritual Path to Higher Creativity
+The Art of War,Uncategorized,33.34,5,In stock,9,The,,False,Medium,High,Available,[],
+The Argonauts,Autobiography,10.93,2,In stock,9,The,,False,Low,Low,Available,[],
+The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,Business,27.55,3,In stock,9,The,10,True,Medium,Average,Available,['10'],Live Your Startup Dream Without Quitting Your Day Job
+Suddenly in Love (Lake Haven #1),Romance,55.99,2,In stock,9,Suddenly,1,True,Premium,Low,Available,['1'],
+Something More Than This,Romance,16.24,4,In stock,9,Something,,False,Low,High,Available,[],
+Soft Apocalypse,Science Fiction,26.12,2,In stock,9,Soft,,False,Medium,Low,Available,[],
+So You've Been Publicly Shamed,Nonfiction,12.23,2,In stock,9,So,,True,Low,Low,Available,[],
+Shoe Dog: A Memoir by the Creator of NIKE,Business,23.99,2,In stock,9,Shoe,,True,Medium,Low,Available,[],A Memoir by the Creator of NIKE
+"Shobu Samurai, Project Aryoku (#3)",Uncategorized,29.06,3,In stock,9,Shobu,3,True,Medium,Average,Available,['3'],
+Secrets and Lace (Fatal Hearts #1),Uncategorized,20.27,1,In stock,9,Secrets,1,True,Low,Low,Available,['1'],
+Scarlett Epstein Hates It Here,Young Adult,43.55,5,In stock,9,Scarlett,,False,High,High,Available,[],
+Romero and Juliet: A Tragic Tale of Love and Zombies,Uncategorized,36.94,1,In stock,9,Romero,,True,High,Low,Available,[],A Tragic Tale of Love and Zombies
+Redeeming Love,Christian Fiction,20.47,5,In stock,9,Redeeming,,False,Low,High,Available,[],
+Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,Uncategorized,41.06,1,In stock,9,Poses,1,True,High,Low,Available,['1'],An Essential Reference for Figure Drawing and the Human Form
+Poems That Make Grown Women Cry,Poetry,14.19,4,In stock,9,Poems,,False,Low,High,Available,[],
+"Nightingale, Sing",Young Adult,38.28,1,In stock,9,Nightingale,,True,High,Low,Available,[],
+Night Sky with Exit Wounds,Poetry,41.05,1,In stock,9,Night,,False,High,Low,Available,[],
+Mrs. Houdini,Historical Fiction,30.25,5,In stock,9,Mrs,,True,Medium,High,Available,[],
+Modern Romance,Uncategorized,28.26,5,In stock,10,Modern,,False,Medium,High,Available,[],
+Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1),Uncategorized,10.76,1,In stock,10,Miss,1,True,Low,Low,Available,['1'],
+Louisa: The Extraordinary Life of Mrs. Adams,Biography,16.85,2,In stock,10,Louisa,,True,Low,Low,Available,[],The Extraordinary Life of Mrs. Adams
+Little Red,Childrens,13.47,3,In stock,10,Little,,False,Low,Average,Available,[],
+Library of Souls (Miss Peregrineâs Peculiar Children #3),Young Adult,48.56,5,In stock,10,Library,3,True,Premium,High,Available,['3'],
+Large Print Heart of the Pride,Uncategorized,19.15,2,In stock,10,Large,,False,Low,Low,Available,[],
+I Had a Nice Time And Other Lies...: How to find love & sh*t like that,Womens Fiction,57.36,4,In stock,10,I,,True,Premium,High,Available,[],How to find love & sh*t like that
+Hollow City (Miss Peregrineâs Peculiar Children #2),Fantasy,42.98,1,In stock,10,Hollow,2,True,High,Low,Available,['2'],
+Grumbles,Uncategorized,22.16,2,In stock,10,Grumbles,,False,Medium,Low,Available,[],
+Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,Travel,49.43,4,In stock,10,Full,,True,Premium,High,Available,[],An Odyssey to Mount Ararat and Beyond
+Frostbite (Vampire Academy #2),Young Adult,29.99,5,In stock,10,Frostbite,2,True,Medium,High,Available,['2'],
+Follow You Home,Horror,21.36,1,In stock,10,Follow,,False,Low,Low,Available,[],
+First Steps for New Christians (Print Edition),Uncategorized,29.0,1,In stock,10,First,,True,Medium,Low,Available,[],
+Finders Keepers (Bill Hodges Trilogy #2),Fiction,53.53,5,In stock,10,Finders,2,True,Premium,High,Available,['2'],
+"Fables, Vol. 1: Legends in Exile (Fables #1)",Sequential Art,41.62,4,In stock,10,Fables,1,True,High,High,Available,"['1', '1']",Legends in Exile (Fables #1)
+Eureka Trivia 6.0,Uncategorized,54.59,4,In stock,10,Eureka,6,True,Premium,High,Available,"['6', '0']",
+Drive: The Surprising Truth About What Motivates Us,Uncategorized,34.95,4,In stock,10,Drive,,True,Medium,High,Available,[],The Surprising Truth About What Motivates Us
+Done Rubbed Out (Reightman & Bailey #1),Uncategorized,37.72,5,In stock,10,Done,1,True,High,High,Available,['1'],
+Doing It Over (Most Likely To #1),Romance,35.61,3,In stock,10,Doing,1,True,Medium,Average,Available,['1'],
+"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",Food and Drink,42.16,3,In stock,10,Deliciously,,True,High,Average,Available,[],"Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals"
+Dark Notes,Erotica,19.19,5,In stock,11,Dark,,False,Low,High,Available,[],
+"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Nonfiction,19.43,3,In stock,11,Daring,,True,Low,Average,Available,[],"How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead"
+Close to You,Christian Fiction,49.46,4,In stock,11,Close,,False,Premium,High,Available,[],
+Chasing Heaven: What Dying Taught Me About Living,Spirituality,37.8,2,In stock,11,Chasing,,True,High,Low,Available,[],What Dying Taught Me About Living
+Big Magic: Creative Living Beyond Fear,Nonfiction,30.8,3,In stock,11,Big,,True,Medium,Average,Available,[],Creative Living Beyond Fear
+Becoming Wise: An Inquiry into the Mystery and Art of Living,Nonfiction,27.43,2,In stock,11,Becoming,,True,Medium,Low,Available,[],An Inquiry into the Mystery and Art of Living
+Beauty Restored (Riley Family Legacy Novellas #3),Uncategorized,11.11,2,In stock,11,Beauty,3,True,Low,Low,Available,['3'],
+Batman: The Long Halloween (Batman),Sequential Art,36.5,2,In stock,11,Batman,,True,High,Low,Available,[],The Long Halloween (Batman)
+Batman: The Dark Knight Returns (Batman),Sequential Art,15.38,5,In stock,11,Batman,,True,Low,High,Available,[],The Dark Knight Returns (Batman)
+Ayumi's Violin,Uncategorized,15.48,2,In stock,11,Ayumi,,True,Low,Low,Available,[],
+Anonymous,Uncategorized,46.82,4,In stock,11,Anonymous,,False,High,High,Available,[],
+Amy Meets the Saints and Sages,Uncategorized,18.46,3,In stock,11,Amy,,False,Low,Average,Available,[],
+Amid the Chaos,Cultural,36.58,1,In stock,11,Amid,,False,High,Low,Available,[],
+Amatus,Uncategorized,50.54,5,In stock,11,Amatus,,False,Premium,High,Available,[],
+Agnostic: A Spirited Manifesto,Nonfiction,12.51,5,In stock,11,Agnostic,,True,Low,High,Available,[],A Spirited Manifesto
+Zealot: The Life and Times of Jesus of Nazareth,History,24.7,3,In stock,11,Zealot,,True,Medium,Average,Available,[],The Life and Times of Jesus of Nazareth
+You (You #1),Thriller,43.61,5,In stock,11,You,1,True,High,High,Available,['1'],
+"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",Sequential Art,37.34,4,In stock,11,Wonder,1,True,High,High,Available,['1'],"Earth One, Volume One (Wonder Woman: Earth One #1)"
+Wild Swans,Young Adult,14.36,2,In stock,11,Wild,,False,Low,Low,Available,[],
+Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,Politics,52.65,4,In stock,11,Why,,True,Premium,High,Available,[],Conservatism--From Goldwater to the Tea Party and Beyond
+Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,Nonfiction,38.2,4,In stock,12,Whole,60,True,High,High,Available,['60'],60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
+What's It Like in Space?: Stories from Astronauts Who've Been There,Nonfiction,19.6,2,In stock,12,What,,True,Low,Low,Available,[],Stories from Astronauts Who've Been There
+"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",Sequential Art,53.9,1,In stock,12,We,1,True,Premium,Low,Available,"['1', '1']",The Vigilante Business (We Are Robin #1)
+Walt Disney's Alice in Wonderland,Childrens,12.96,5,In stock,12,Walt,,True,Low,High,Available,[],
+V for Vendetta (V for Vendetta Complete),Uncategorized,37.1,4,In stock,12,V,,True,High,High,Available,[],
+Until Friday Night (The Field Party #1),Young Adult,46.31,2,In stock,12,Until,1,True,High,Low,Available,['1'],
+"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Uncategorized,45.95,2,In stock,12,Unbroken,,True,High,Low,Available,[],"A World War II Story of Survival, Resilience, and Redemption"
+Twenty Yawns,Childrens,22.08,2,In stock,12,Twenty,,False,Low,Low,Available,[],
+Through the Woods,Sequential Art,25.38,2,In stock,12,Through,,False,Medium,Low,Available,[],
+This Is Where It Ends,Young Adult,27.12,2,In stock,12,This,,False,Medium,Low,Available,[],
+The Year of Magical Thinking,Nonfiction,43.04,2,In stock,12,The,,False,High,Low,Available,[],
+The Wright Brothers,Uncategorized,56.8,4,In stock,12,The,,False,Premium,High,Available,[],
+The White Queen (The Cousins' War #1),Uncategorized,25.91,5,In stock,12,The,1,True,Medium,High,Available,['1'],
+The Wedding Pact (The O'Malleys #2),Romance,32.61,3,In stock,12,The,2,True,Medium,Average,Available,['2'],
+The Time Keeper,Fiction,27.88,5,In stock,12,The,,False,Medium,High,Available,[],
+The Testament of Mary,Fiction,52.67,4,In stock,12,The,,False,Premium,High,Available,[],
+The Star-Touched Queen,Fantasy,46.02,5,In stock,12,The,,True,High,High,Available,[],
+The Songs of the Gods,Uncategorized,44.48,5,In stock,12,The,,False,High,High,Available,[],
+The Song of Achilles,Uncategorized,37.4,5,In stock,12,The,,False,High,High,Available,[],
+The Rosie Project (Don Tillman #1),Uncategorized,54.04,1,In stock,12,The,1,True,Premium,Low,Available,['1'],
+The Power of Habit: Why We Do What We Do in Life and Business,Uncategorized,16.88,3,In stock,13,The,,True,Low,Average,Available,[],Why We Do What We Do in Life and Business
+The Marriage of Opposites,Historical Fiction,28.08,4,In stock,13,The,,False,Medium,High,Available,[],
+The Lucifer Effect: Understanding How Good People Turn Evil,Psychology,10.4,1,In stock,13,The,,True,Low,Low,Available,[],Understanding How Good People Turn Evil
+The Long Haul (Diary of a Wimpy Kid #9),Humor,44.07,1,In stock,13,The,9,True,High,Low,Available,['9'],
+The Loney,Horror,23.4,1,In stock,13,The,,False,Medium,Low,Available,[],
+The Literature Book (Big Ideas Simply Explained),Nonfiction,17.43,3,In stock,13,The,,True,Low,Average,Available,[],
+The Last Mile (Amos Decker #2),Mystery,54.21,2,In stock,13,The,2,True,Premium,Low,Available,['2'],
+The Immortal Life of Henrietta Lacks,Uncategorized,40.67,2,In stock,13,The,,False,High,Low,Available,[],
+The Hidden Oracle (The Trials of Apollo #1),Fantasy,52.26,2,In stock,13,The,1,True,Premium,Low,Available,['1'],
+The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,Food and Drink,28.77,3,In stock,13,The,60,True,Medium,Average,Available,['60'],60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth
+The Guilty (Will Robie #4),Thriller,13.82,2,In stock,13,The,4,True,Low,Low,Available,['4'],
+The First Hostage (J.B. Collins #2),Fiction,25.85,3,In stock,13,The,2,True,Medium,Average,Available,['2'],
+The Dovekeepers,Uncategorized,48.78,1,In stock,13,The,,False,Premium,Low,Available,[],
+The Darkest Lie,Young Adult,35.35,5,In stock,13,The,,False,Medium,High,Available,[],
+The Bane Chronicles (The Bane Chronicles #1-11),Fantasy,44.73,4,In stock,13,The,1,True,High,High,Available,"['1', '11']",
+The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts,Nonfiction,15.77,1,In stock,13,The,,True,Low,Low,Available,[],And Their Race to Save the Worldâs Most Precious Manuscripts
+The 14th Colony (Cotton Malone #11),Thriller,39.24,1,In stock,13,The,14,True,High,Low,Available,"['14', '11']",
+That Darkness (Gardiner and Renner #1),Mystery,13.92,1,In stock,13,That,1,True,Low,Low,Available,['1'],
+Tastes Like Fear (DI Marnie Rome #3),Mystery,10.69,1,In stock,13,Tastes,3,True,Low,Low,Available,['3'],
+Take Me with You,Fiction,45.21,3,In stock,13,Take,,False,High,Average,Available,[],
+Swell: A Year of Waves,Nonfiction,45.58,1,In stock,14,Swell,,True,High,Low,Available,[],A Year of Waves
+Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),Sequential Art,11.89,5,In stock,14,Superman,1,True,Low,High,Available,"['1', '1']",Before Truth (Superman by Gene Luen Yang #1)
+Still Life with Bread Crumbs,Fiction,26.41,3,In stock,14,Still,,False,Medium,Average,Available,[],
+Steve Jobs,Uncategorized,39.5,5,In stock,14,Steve,,False,High,High,Available,[],
+Sorting the Beef from the Bull: The Science of Food Fraud Forensics,Science,44.74,4,In stock,14,Sorting,,True,High,High,Available,[],The Science of Food Fraud Forensics
+Someone Like You (The Harrisons #2),Contemporary,52.79,5,In stock,14,Someone,2,True,Premium,High,Available,['2'],
+"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",Sequential Art,35.43,4,In stock,14,So,6,True,Medium,High,Available,"['6', '6']",
+Shtum,Fiction,55.84,4,In stock,14,Shtum,,False,Premium,High,Available,[],
+See America: A Celebration of Our National Parks & Treasured Sites,Travel,48.87,3,In stock,14,See,,True,Premium,Average,Available,[],A Celebration of Our National Parks & Treasured Sites
+salt.,Poetry,46.78,4,In stock,14,salt,,True,High,High,Available,[],
+Robin War,Sequential Art,47.82,3,In stock,14,Robin,,False,Premium,Average,Available,[],
+"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",Sequential Art,25.48,2,In stock,14,Red,1,True,Medium,Low,Available,"['1', '1']",Open for Business (Red Hood/Arsenal #1)
+Rain Fish,Childrens,23.57,3,In stock,14,Rain,,False,Medium,Average,Available,[],
+"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Poetry,50.89,5,In stock,14,Quarter,,True,Premium,High,Available,[],"Poems for the Young, Broke and Hangry"
+Pet Sematary,Horror,10.56,3,In stock,14,Pet,,False,Low,Average,Available,[],
+"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",Self Help,52.15,3,In stock,14,Overload,,True,Premium,Average,Available,[],"How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress"
+Once Was a Time,Childrens,18.28,2,In stock,14,Once,,False,Low,Low,Available,[],
+Old School (Diary of a Wimpy Kid #10),Humor,11.83,5,In stock,14,Old,10,True,Low,High,Available,['10'],
+No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,Nonfiction,21.95,2,In stock,14,No,,True,Low,Low,Available,[],Life Lessons From a Man Who Walked on the Moon
+"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",Sequential Art,38.39,2,In stock,14,Naruto,3,True,High,Low,Available,"['3', '1', '14', '40', '41', '42', '14']","Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)"
+My Name Is Lucy Barton,Fiction,41.56,1,In stock,15,My,,False,High,Low,Available,[],
+My Mrs. Brown,Fiction,24.48,3,In stock,15,My,,True,Medium,Average,Available,[],
+My Kind of Crazy,Young Adult,40.36,1,In stock,15,My,,False,High,Low,Available,[],
+Mr. Mercedes (Bill Hodges Trilogy #1),Fiction,28.9,1,In stock,15,Mr,1,True,Medium,Low,Available,['1'],
+More Than Music (Chasing the Dream #1),Uncategorized,37.61,2,In stock,15,More,1,True,High,Low,Available,['1'],
+Made to Stick: Why Some Ideas Survive and Others Die,Business,38.85,5,In stock,15,Made,,True,High,High,Available,[],Why Some Ideas Survive and Others Die
+Luis Paints the World,Childrens,53.95,3,In stock,15,Luis,,False,Premium,Average,Available,[],
+Luckiest Girl Alive,Uncategorized,49.83,3,In stock,15,Luckiest,,False,Premium,Average,Available,[],
+Lowriders to the Center of the Earth (Lowriders in Space #2),Sequential Art,51.51,2,In stock,15,Lowriders,2,True,Premium,Low,Available,['2'],
+Love Is a Mix Tape (Music #1),Music,18.03,1,In stock,15,Love,1,True,Low,Low,Available,['1'],
+Looking for Lovely: Collecting the Moments that Matter,Nonfiction,29.14,5,In stock,15,Looking,,True,Medium,High,Available,[],Collecting the Moments that Matter
+"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",Uncategorized,46.91,4,In stock,15,Living,,True,High,High,Available,[],"A Good Leader Achieves, a Great Leader Builds Monuments"
+Let It Out: A Journey Through Journaling,Nonfiction,26.79,5,In stock,15,Let,,True,Medium,High,Available,[],A Journey Through Journaling
+Lady Midnight (The Dark Artifices #1),Uncategorized,16.28,5,In stock,15,Lady,1,True,Low,High,Available,['1'],
+"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",Food and Drink,19.55,1,In stock,15,It,30,True,Low,Low,Available,['30'],"Healthy, Delicious Weeknight Meals in under 30 Minutes"
+Island of Dragons (Unwanteds #7),Fantasy,29.65,1,In stock,15,Island,7,True,Medium,Low,Available,['7'],
+I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,Humor,25.98,4,In stock,15,I,,True,Medium,High,Available,[],Dispatches from a Life Under Construction
+I Am Pilgrim (Pilgrim #1),Fiction,10.6,4,In stock,15,I,1,True,Low,High,Available,['1'],
+"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Humor,14.75,5,In stock,15,Hyperbole,,True,Low,High,Available,[],"Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened"
+"Hush, Hush (Hush, Hush #1)",Uncategorized,47.02,3,In stock,15,Hush,1,True,High,Average,Available,['1'],
+Hold Your Breath (Search and Rescue #1),Romance,28.82,1,In stock,16,Hold,1,True,Medium,Low,Available,['1'],
+Hamilton: The Revolution,Nonfiction,58.79,3,In stock,16,Hamilton,,True,Premium,Average,Available,[],The Revolution
+Greek Mythic History,Uncategorized,10.23,5,In stock,16,Greek,,False,Low,High,Available,[],
+God: The Most Unpleasant Character in All Fiction,Religion,30.03,5,In stock,16,God,,True,Medium,High,Available,[],The Most Unpleasant Character in All Fiction
+Glory over Everything: Beyond The Kitchen House,Historical Fiction,45.84,3,In stock,16,Glory,,True,High,Average,Available,[],Beyond The Kitchen House
+Feathers: Displays of Brilliant Plumage,Art,49.05,3,In stock,16,Feathers,,True,Premium,Average,Available,[],Displays of Brilliant Plumage
+"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",Nonfiction,15.06,4,In stock,16,Far,,True,Low,High,Available,[],"Places on the Brink of Change: Seven Continents, Twenty-Five Years"
+Every Last Word,Uncategorized,46.47,3,In stock,16,Every,,False,High,Average,Available,[],
+Eligible (The Austen Project #4),Fiction,27.09,3,In stock,16,Eligible,4,True,Medium,Average,Available,['4'],
+El Deafo,Sequential Art,57.62,5,In stock,16,El,,False,Premium,High,Available,[],
+Eight Hundred Grapes,Fiction,14.39,4,In stock,16,Eight,,False,Low,High,Available,[],
+"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",Nonfiction,51.75,5,In stock,16,Eaternity,150,True,Premium,High,Available,['150'],"More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life"
+"Eat Fat, Get Thin",Health,54.07,2,In stock,16,Eat,,True,Premium,Low,Available,[],
+Don't Get Caught,Young Adult,55.35,1,In stock,16,Don,,True,Premium,Low,Available,[],
+Doctor Sleep (The Shining #2),Horror,40.12,2,In stock,16,Doctor,2,True,High,Low,Available,['2'],
+Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),Fantasy,37.51,5,In stock,16,Demigods,1,True,High,High,Available,"['1', '3']",Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)
+Dear Mr. Knightley,Fiction,11.21,5,In stock,16,Dear,,True,Low,High,Available,[],
+Daily Fantasy Sports,Uncategorized,36.58,1,In stock,16,Daily,,False,High,Low,Available,[],
+Crazy Love: Overwhelmed by a Relentless God,Christian,47.72,2,In stock,16,Crazy,,True,Premium,Low,Available,[],Overwhelmed by a Relentless God
+Cometh the Hour (The Clifton Chronicles #6),Fiction,25.01,3,In stock,16,Cometh,6,True,Medium,Average,Available,['6'],
+Code Name Verity (Code Name Verity #1),Uncategorized,22.13,4,In stock,17,Code,1,True,Medium,High,Available,['1'],
+Clockwork Angel (The Infernal Devices #1),Uncategorized,44.14,1,In stock,17,Clockwork,1,True,High,Low,Available,['1'],
+City of Glass (The Mortal Instruments #3),Fantasy,56.02,4,In stock,17,City,3,True,Premium,High,Available,['3'],
+City of Fallen Angels (The Mortal Instruments #4),Uncategorized,11.23,4,In stock,17,City,4,True,Low,High,Available,['4'],
+City of Bones (The Mortal Instruments #1),Uncategorized,43.28,1,In stock,17,City,1,True,High,Low,Available,['1'],
+City of Ashes (The Mortal Instruments #2),Uncategorized,47.27,1,In stock,17,City,2,True,High,Low,Available,['2'],
+Cell,Uncategorized,20.29,4,In stock,17,Cell,,False,Low,High,Available,[],
+Catching Jordan (Hundred Oaks),Young Adult,50.83,3,In stock,17,Catching,,True,Premium,Average,Available,[],
+"Carry On, Warrior: Thoughts on Life Unarmed",Uncategorized,31.85,3,In stock,17,Carry,,True,Medium,Average,Available,[],Thoughts on Life Unarmed
+Carrie,Uncategorized,46.23,2,In stock,17,Carrie,,False,High,Low,Available,[],
+Buying In: The Secret Dialogue Between What We Buy and Who We Are,Nonfiction,37.8,4,In stock,17,Buying,,True,High,High,Available,[],The Secret Dialogue Between What We Buy and Who We Are
+Brain on Fire: My Month of Madness,Nonfiction,49.32,5,In stock,17,Brain,,True,Premium,High,Available,[],My Month of Madness
+Batman: Europa,Sequential Art,32.01,2,In stock,17,Batman,,True,Medium,Low,Available,[],Europa
+Barefoot Contessa Back to Basics,Food and Drink,28.01,1,In stock,17,Barefoot,,False,Medium,Low,Available,[],
+Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,Food and Drink,50.62,5,In stock,17,Barefoot,,True,Premium,High,Available,[],Everyday Recipes You'll Make Over and Over Again
+Balloon Animals,Fiction,17.03,3,In stock,17,Balloon,,False,Low,Average,Available,[],
+Art Ops Vol. 1,Sequential Art,48.8,3,In stock,17,Art,1,True,Premium,Average,Available,['1'],
+Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),Young Adult,58.14,4,In stock,17,Aristotle,1,True,Premium,High,Available,['1'],
+Angels Walking (Angels Walking #1),Uncategorized,34.2,2,In stock,17,Angels,1,True,Medium,Low,Available,['1'],
+Angels & Demons (Robert Langdon #1),Uncategorized,51.48,3,In stock,17,Angels,1,True,Premium,Average,Available,['1'],
+All the Light We Cannot See,Historical,29.87,5,In stock,18,All,,False,Medium,High,Available,[],
+"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",Sequential Art,10.9,2,In stock,18,Adulthood,,True,Low,Low,Available,[],"A ""Sarah's Scribbles"" Collection"
+Abstract City,Nonfiction,56.37,5,In stock,18,Abstract,,False,Premium,High,Available,[],
+A Time of Torment (Charlie Parker #14),Mystery,48.35,5,In stock,18,A,14,True,Premium,High,Available,['14'],
+A Study in Scarlet (Sherlock Holmes #1),Mystery,16.73,2,In stock,18,A,1,True,Low,Low,Available,['1'],
+"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",Uncategorized,56.48,2,In stock,18,A,,True,Premium,Low,Available,[],"A True Story of Love, Science, and Cancer"
+A People's History of the United States,Uncategorized,40.79,2,In stock,18,A,,True,High,Low,Available,[],
+A Man Called Ove,Fiction,39.72,1,In stock,18,A,,False,High,Low,Available,[],
+A Distant Mirror: The Calamitous 14th Century,History,14.58,3,In stock,18,A,14,True,Low,Average,Available,['14'],The Calamitous 14th Century
+A Brush of Wings (Angels Walking #3),Uncategorized,55.51,1,In stock,18,A,3,True,Premium,Low,Available,['3'],
+1491: New Revelations of the Americas Before Columbus,History,21.8,3,In stock,18,1491,1491,True,Low,Average,Available,['1491'],New Revelations of the Americas Before Columbus
+"The Three Searches, Meaning, and the Story",Uncategorized,13.33,3,In stock,18,The,,True,Low,Average,Available,[],
+Searching for Meaning in Gailana,Fantasy,38.73,1,In stock,18,Searching,,False,High,Low,Available,[],
+Rook,Uncategorized,37.86,4,In stock,18,Rook,,False,High,High,Available,[],
+My Kitchen Year: 136 Recipes That Saved My Life,Food and Drink,11.53,2,In stock,18,My,136,True,Low,Low,Available,['136'],136 Recipes That Saved My Life
+13 Hours: The Inside Account of What Really Happened In Benghazi,Nonfiction,27.06,1,In stock,18,13,13,True,Medium,Low,Available,['13'],The Inside Account of What Really Happened In Benghazi
+Will You Won't You Want Me?,Womens Fiction,13.86,3,In stock,18,Will,,True,Low,Average,Available,[],
+Tipping Point for Planet Earth: How Close Are We to the Edge?,Science,37.55,1,In stock,18,Tipping,,True,High,Low,Available,[],How Close Are We to the Edge?
+The Star-Touched Queen,Fantasy,32.3,5,In stock,18,The,,True,Medium,High,Available,[],
+The Silent Sister (Riley MacPherson #1),Fiction,46.29,5,In stock,18,The,1,True,High,High,Available,['1'],
+The Midnight Watch: A Novel of the Titanic and the Californian,Uncategorized,26.2,1,In stock,19,The,,True,Medium,Low,Available,[],A Novel of the Titanic and the Californian
+The Lonely City: Adventures in the Art of Being Alone,Nonfiction,33.26,2,In stock,19,The,,True,Medium,Low,Available,[],Adventures in the Art of Being Alone
+The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,Uncategorized,59.15,4,In stock,19,The,,True,Premium,High,Available,[],How to Recognize and Act on the Obvious Dangers We Ignore
+The Golden Condom: And Other Essays on Love Lost and Found,Psychology,39.43,1,In stock,19,The,,True,High,Low,Available,[],And Other Essays on Love Lost and Found
+The Epidemic (The Program 0.6),Young Adult,14.44,5,In stock,19,The,0,True,Low,High,Available,"['0', '6']",
+The Dinner Party,Fiction,56.54,2,In stock,19,The,,False,Premium,Low,Available,[],
+The Diary of a Young Girl,Nonfiction,59.9,3,In stock,19,The,,False,Premium,Average,Available,[],
+The Children,Uncategorized,11.88,3,In stock,19,The,,False,Low,Average,Available,[],
+Stars Above (The Lunar Chronicles #4.5),Young Adult,48.05,2,In stock,19,Stars,4,True,Premium,Low,Available,"['4', '5']",
+Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,Nonfiction,21.21,3,In stock,19,Snatched,,True,Low,Average,Available,[],How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas
+Raspberry Pi Electronics Projects for the Evil Genius,Uncategorized,49.67,4,In stock,19,Raspberry,,False,Premium,High,Available,[],
+Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,Business,43.14,1,In stock,19,Quench,,True,High,Low,Available,[],Business Lessons Learned Over a Beer or Two
+Psycho: Sanitarium (Psycho #1.5),Horror,36.97,5,In stock,19,Psycho,1,True,High,High,Available,"['1', '5']",Sanitarium (Psycho #1.5)
+Poisonous (Max Revere Novels #3),Mystery,26.8,3,In stock,19,Poisonous,3,True,Medium,Average,Available,['3'],
+One with You (Crossfire #5),Uncategorized,15.71,4,In stock,19,One,5,True,Low,High,Available,['5'],
+No Love Allowed (Dodge Cove #1),Young Adult,54.65,4,In stock,19,No,1,True,Premium,High,Available,['1'],
+Murder at the 42nd Street Library (Raymond Ambler #1),Mystery,54.36,4,In stock,19,Murder,42,True,Premium,High,Available,"['42', '1']",
+Most Wanted,Mystery,35.28,3,In stock,19,Most,,False,Medium,Average,Available,[],
+"Love, Lies and Spies",Historical Fiction,20.55,2,In stock,19,Love,,True,Low,Low,Available,[],
+How to Speak Golf: An Illustrated Guide to Links Lingo,Uncategorized,58.32,5,In stock,19,How,,True,Premium,High,Available,[],An Illustrated Guide to Links Lingo
+Hide Away (Eve Duncan #20),Mystery,11.84,1,In stock,20,Hide,20,True,Low,Low,Available,['20'],
+Furiously Happy: A Funny Book About Horrible Things,Nonfiction,41.46,4,In stock,20,Furiously,,True,High,High,Available,[],A Funny Book About Horrible Things
+Everyday Italian: 125 Simple and Delicious Recipes,Food and Drink,20.1,5,In stock,20,Everyday,125,True,Low,High,Available,['125'],125 Simple and Delicious Recipes
+Equal Is Unfair: America's Misguided Fight Against Income Inequality,Politics,56.86,1,In stock,20,Equal,,True,Premium,Low,Available,[],America's Misguided Fight Against Income Inequality
+Eleanor & Park,Uncategorized,56.51,5,In stock,20,Eleanor,,True,Premium,High,Available,[],
+Dirty (Dive Bar #1),Romance,40.83,4,In stock,20,Dirty,1,True,High,High,Available,['1'],
+Can You Keep a Secret? (Fear Street Relaunch #4),Horror,48.64,1,In stock,20,Can,4,True,Premium,Low,Available,['4'],
+Boar Island (Anna Pigeon #19),Mystery,59.48,3,In stock,20,Boar,19,True,Premium,Average,Available,['19'],
+A Paris Apartment,Historical Fiction,39.01,4,In stock,20,A,,False,High,High,Available,[],
+"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",Food and Drink,38.77,1,In stock,20,A,120,True,High,Low,Available,"['120', '60']","120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More"
+Troublemaker: Surviving Hollywood and Scientology,Uncategorized,48.39,2,In stock,20,Troublemaker,,True,Premium,Low,Available,[],Surviving Hollywood and Scientology
+The Widow,Mystery,27.26,2,In stock,20,The,,False,Medium,Low,Available,[],
+"The Sleep Revolution: Transforming Your Life, One Night at a Time",Nonfiction,11.68,4,In stock,20,The,,True,Low,High,Available,[],"Transforming Your Life, One Night at a Time"
+The Improbability of Love,Fiction,59.45,1,In stock,20,The,,False,Premium,Low,Available,[],
+The Art of Startup Fundraising,Business,21.0,3,In stock,20,The,,False,Low,Average,Available,[],
+Take Me Home Tonight (Rock Star Romance #3),Romance,53.98,3,In stock,20,Take,3,True,Premium,Average,Available,['3'],
+Sleeping Giants (Themis Files #1),Science Fiction,48.74,1,In stock,20,Sleeping,1,True,Premium,Low,Available,['1'],
+"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",Biography,21.15,2,In stock,20,Setting,,True,Low,Low,Available,[],"The Brief, Astonishing Life of St. Catherine of Siena"
+Playing with Fire,Mystery,13.71,3,In stock,20,Playing,,False,Low,Average,Available,[],
+Off the Hook (Fishing for Trouble #1),Romance,47.67,3,In stock,20,Off,1,True,Premium,Average,Available,['1'],
+Mothering Sunday,Fiction,13.34,2,In stock,21,Mothering,,False,Low,Low,Available,[],
+"Mother, Can You Not?",Nonfiction,16.89,5,In stock,21,Mother,,True,Low,High,Available,[],
+M Train,Autobiography,27.18,1,In stock,21,M,,False,Medium,Low,Available,[],
+Lilac Girls,Historical Fiction,17.28,2,In stock,21,Lilac,,False,Low,Low,Available,[],
+Lies and Other Acts of Love,Fiction,45.14,1,In stock,21,Lies,,False,High,Low,Available,[],
+Lab Girl,Autobiography,40.85,1,In stock,21,Lab,,False,High,Low,Available,[],
+Keep Me Posted,Womens Fiction,20.46,4,In stock,21,Keep,,False,Low,High,Available,[],
+It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,Psychology,56.27,3,In stock,21,It,,True,Premium,Average,Available,[],How Inherited Family Trauma Shapes Who We Are and How to End the Cycle
+Grey (Fifty Shades #4),Womens Fiction,48.49,4,In stock,21,Grey,4,True,Premium,High,Available,['4'],
+"Exit, Pursued by a Bear",Young Adult,51.34,4,In stock,21,Exit,,True,Premium,High,Available,[],
+Daredevils,Fiction,16.34,3,In stock,21,Daredevils,,False,Low,Average,Available,[],
+Cravings: Recipes for What You Want to Eat,Food and Drink,20.5,3,In stock,21,Cravings,,True,Low,Average,Available,[],Recipes for What You Want to Eat
+Born for This: How to Find the Work You Were Meant to Do,Business,21.59,5,In stock,21,Born,,True,Low,High,Available,[],How to Find the Work You Were Meant to Do
+Arena,Science Fiction,21.36,4,In stock,21,Arena,,False,Low,High,Available,[],
+Adultery,Uncategorized,20.88,5,In stock,21,Adultery,,False,Low,High,Available,[],
+A Mother's Reckoning: Living in the Aftermath of Tragedy,Nonfiction,19.53,3,In stock,21,A,,True,Low,Average,Available,[],Living in the Aftermath of Tragedy
+A Gentleman's Position (Society of Gentlemen #3),Romance,14.75,5,In stock,21,A,3,True,Low,High,Available,['3'],
+11/22/63,Fiction,48.48,3,In stock,21,11,11,True,Premium,Average,Available,"['11', '22', '63']",
+"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",Nonfiction,24.57,2,In stock,21,10,10,True,Medium,Low,Available,['10'],"How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works"
+10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,Health,49.71,5,In stock,21,10,10,True,Premium,High,Available,"['10', '15', '10']",Lose Up to 15 Pounds in 10 Days!
+Without Shame,Uncategorized,48.27,5,In stock,22,Without,,False,Premium,High,Available,[],
+Watchmen,Uncategorized,58.05,4,In stock,22,Watchmen,,False,Premium,High,Available,[],
+Unlimited Intuition Now,Uncategorized,58.87,4,In stock,22,Unlimited,,False,Premium,High,Available,[],
+Underlying Notes,Uncategorized,11.82,2,In stock,22,Underlying,,False,Low,Low,Available,[],
+The Shack,Fiction,28.03,1,In stock,22,The,,False,Medium,Low,Available,[],
+The New Brand You: Your New Image Makes the Sale for You,Uncategorized,44.05,5,In stock,22,The,,True,High,High,Available,[],Your New Image Makes the Sale for You
+"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",Food and Drink,12.34,4,In stock,22,The,,True,Low,High,Available,[],"Recipes from Moosewood Restaurant, Ithaca, New York"
+The Flowers Lied,Uncategorized,16.68,2,In stock,22,The,,False,Low,Low,Available,[],
+"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",Science,55.91,1,In stock,22,The,,True,Premium,Low,Available,[],"Space, Time, and the Texture of Reality"
+The Book of Mormon,Religion,24.57,3,In stock,22,The,,False,Medium,Average,Available,[],
+The Art and Science of Low Carbohydrate Living,Health,52.98,5,In stock,22,The,,False,Premium,High,Available,[],
+The Alien Club,Young Adult,54.4,1,In stock,22,The,,False,Premium,Low,Available,[],
+Suzie Snowflake: One beautiful flake (a self-esteem story),Novels,54.81,5,In stock,22,Suzie,,True,Premium,High,Available,[],One beautiful flake (a self-esteem story)
+Nap-a-Roo,Childrens,25.08,1,In stock,22,Nap,,True,Medium,Low,Available,[],
+"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",Uncategorized,10.41,4,In stock,22,NaNo,,True,Low,High,Available,[],
+Modern Day Fables,Uncategorized,47.44,2,In stock,22,Modern,,False,High,Low,Available,[],
+If I Gave You God's Phone Number....: Searching for Spirituality in America,Spirituality,20.91,1,In stock,22,If,,True,Low,Low,Available,[],Searching for Spirituality in America
+"Fruits Basket, Vol. 9 (Fruits Basket #9)",Sequential Art,33.95,4,In stock,22,Fruits,9,True,Medium,High,Available,"['9', '9']",
+Dress Your Family in Corduroy and Denim,Humor,43.68,3,In stock,22,Dress,,False,High,Average,Available,[],
+Don't Forget Steven,Young Adult,33.23,1,In stock,22,Don,,True,Medium,Low,Available,[],
+Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,Nonfiction,35.92,2,In stock,23,Chernobyl,01,True,Medium,Low,Available,"['01', '23', '40']",23:40: The Incredible True Story of the World's Worst Nuclear Disaster
+Art and Fear: Observations on the Perils (and Rewards) of Artmaking,Art,48.63,4,In stock,23,Art,,True,Premium,High,Available,[],Observations on the Perils (and Rewards) of Artmaking
+A Shard of Ice (The Black Symphony Saga #1),Fantasy,56.63,3,In stock,23,A,1,True,Premium,Average,Available,['1'],
+A Hero's Curse (The Unseen Chronicles #1),Uncategorized,50.49,3,In stock,23,A,1,True,Premium,Average,Available,['1'],
+23 Degrees South: A Tropical Tale of Changing Whether...,Uncategorized,35.79,2,In stock,23,23,23,True,Medium,Low,Available,['23'],A Tropical Tale of Changing Whether...
+"Zero to One: Notes on Startups, or How to Build the Future",Nonfiction,34.06,3,In stock,23,Zero,,True,Medium,Average,Available,[],"Notes on Startups, or How to Build the Future"
+Why Not Me?,Nonfiction,17.76,1,In stock,23,Why,,True,Low,Low,Available,[],
+When Breath Becomes Air,Nonfiction,39.36,2,In stock,23,When,,False,High,Low,Available,[],
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,Travel,36.94,2,In stock,23,Vagabonding,,True,High,Low,Available,[],An Uncommon Guide to the Art of Long-Term World Travel
+The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),Uncategorized,43.62,5,In stock,23,The,1,True,High,High,Available,['1'],
+The New Drawing on the Right Side of the Brain,Art,43.02,3,In stock,23,The,,False,High,Average,Available,[],
+"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",Nonfiction,28.45,4,In stock,23,The,,True,Medium,High,Available,[],"Panic, Scandal, and the Hunt for America's First Serial Killer"
+The Martian (The Martian #1),Uncategorized,41.39,2,In stock,23,The,1,True,High,Low,Available,['1'],
+The High Mountains of Portugal,Fiction,51.15,1,In stock,23,The,,False,Premium,Low,Available,[],
+The Grownup,Short Stories,35.88,1,In stock,23,The,,False,Medium,Low,Available,[],
+The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,Business,36.91,1,In stock,23,The,,True,High,Low,Available,[],Why Most Small Businesses Don't Work and What to Do About It
+South of Sunshine,Young Adult,28.93,1,In stock,23,South,,False,Medium,Low,Available,[],
+Smarter Faster Better: The Secrets of Being Productive in Life and Business,Nonfiction,38.89,5,In stock,23,Smarter,,True,High,High,Available,[],The Secrets of Being Productive in Life and Business
+Silence in the Dark (Logan Point #4),Suspense,58.33,3,In stock,23,Silence,4,True,Premium,Average,Available,['4'],
+Shadows of the Past (Logan Point #1),Christian Fiction,39.67,5,In stock,23,Shadows,1,True,High,High,Available,['1'],
+Roller Girl,Sequential Art,14.1,5,In stock,24,Roller,,False,Low,High,Available,[],
+Rising Strong,Nonfiction,21.82,3,In stock,24,Rising,,False,Low,Average,Available,[],
+Proofs of God: Classical Arguments from Tertullian to Barth,Philosophy,54.21,1,In stock,24,Proofs,,True,Premium,Low,Available,[],Classical Arguments from Tertullian to Barth
+Please Kill Me: The Uncensored Oral History of Punk,Music,31.19,4,In stock,24,Please,,True,Medium,High,Available,[],The Uncensored Oral History of Punk
+Out of Print: City Lights Spotlight No. 14,Poetry,53.64,5,In stock,24,Out,14,True,Premium,High,Available,['14'],City Lights Spotlight No. 14
+My Life Next Door (My Life Next Door ),Young Adult,36.39,5,In stock,24,My,,True,High,High,Available,[],
+Miller's Valley,Fiction,58.54,2,In stock,24,Miller,,True,Premium,Low,Available,[],
+Man's Search for Meaning,Nonfiction,29.48,3,In stock,24,Man,,True,Medium,Average,Available,[],
+"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",Nonfiction,25.06,2,In stock,24,Love,,True,Medium,Low,Available,[],"What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations"
+Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,Nonfiction,12.55,3,In stock,24,Living,,True,Low,Average,Available,[],A Proven Plan to Stop Drifting and Get the Life You Want
+Les Fleurs du Mal,Poetry,29.04,5,In stock,24,Les,,False,Medium,High,Available,[],
+Left Behind (Left Behind #1),Uncategorized,40.72,2,In stock,24,Left,1,True,High,Low,Available,['1'],
+Kill 'Em and Leave: Searching for James Brown and the American Soul,Music,45.05,5,In stock,24,Kill,,True,High,High,Available,[],Searching for James Brown and the American Soul
+Kierkegaard: A Christian Missionary to Christians,Philosophy,47.13,1,In stock,24,Kierkegaard,,True,High,Low,Available,[],A Christian Missionary to Christians
+John Vassos: Industrial Design for Modern Life,Uncategorized,20.22,4,In stock,24,John,,True,Low,High,Available,[],Industrial Design for Modern Life
+I'll Give You the Sun,Uncategorized,56.48,1,In stock,24,I,,True,Premium,Low,Available,[],
+I Will Find You,Nonfiction,44.21,1,In stock,24,I,,False,High,Low,Available,[],
+Hystopia: A Novel,Fiction,21.96,4,In stock,24,Hystopia,,True,Low,High,Available,[],A Novel
+Howl and Other Poems,Poetry,40.45,2,In stock,24,Howl,,False,High,Low,Available,[],
+History of Beauty,Art,10.29,4,In stock,24,History,,False,Low,High,Available,[],
+Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Uncategorized,52.86,2,In stock,25,Heaven,,True,Premium,Low,Available,[],A Little Boy's Astounding Story of His Trip to Heaven and Back
+Future Shock (Future Shock #1),Young Adult,55.65,5,In stock,25,Future,1,True,Premium,High,Available,['1'],
+Ender's Game (The Ender Quintet #1),Uncategorized,43.64,1,In stock,25,Ender,1,True,High,Low,Available,['1'],
+Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,Science,28.41,1,In stock,25,Diary,,True,Medium,Low,Available,[],Chasing Tiger Beetles and Other New Ways of Engaging the World
+Death by Leisure: A Cautionary Tale,Uncategorized,37.51,4,In stock,25,Death,,True,High,High,Available,[],A Cautionary Tale
+Brilliant Beacons: A History of the American Lighthouse,History,11.45,3,In stock,25,Brilliant,,True,Low,Average,Available,[],A History of the American Lighthouse
+Brazen: The Courage to Find the You That's Been Hiding,Nonfiction,19.22,2,In stock,25,Brazen,,True,Low,Low,Available,[],The Courage to Find the You That's Been Hiding
+Between the World and Me,Nonfiction,56.91,4,In stock,25,Between,,False,Premium,High,Available,[],
+Being Mortal: Medicine and What Matters in the End,Nonfiction,55.06,4,In stock,25,Being,,True,Premium,High,Available,[],Medicine and What Matters in the End
+"A Murder Over a Girl: Justice, Gender, Junior High",Nonfiction,13.2,3,In stock,25,A,,True,Low,Average,Available,[],"Justice, Gender, Junior High"
+32 Yolks,Food and Drink,53.63,2,In stock,25,32,32,False,Premium,Low,Available,['32'],
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",History,44.48,5,In stock,25,,,True,High,High,Available,[],Thomas Jefferson and the Empire of the Imagination
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Self Help,12.08,3,In stock,25,You,,True,Low,Average,Available,[],How to Stop Doubting Your Greatness and Start Living an Awesome Life
+Wildlife of New York: A Five-Borough Coloring Book,Uncategorized,22.14,2,In stock,25,Wildlife,,True,Medium,Low,Available,[],A Five-Borough Coloring Book
+What Happened on Beale Street (Secrets of the South Mysteries #2),Mystery,25.37,5,In stock,25,What,2,True,Medium,High,Available,['2'],
+Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,Spirituality,46.33,2,In stock,25,Unreasonable,,True,High,Low,Available,[],Finding Faith in the God Who Brings Purpose to Your Pain
+Under the Tuscan Sun,Travel,37.33,3,In stock,25,Under,,False,High,Average,Available,[],
+Toddlers Are A**holes: It's Not Your Fault,Humor,25.55,1,In stock,25,Toddlers,,True,Medium,Low,Available,[],It's Not Your Fault
+The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,Uncategorized,34.72,1,In stock,25,The,,True,Medium,Low,Available,[],One Man's Humble Quest to Follow the Bible as Literally as Possible
+The Whale,Childrens,35.96,4,In stock,25,The,,False,Medium,High,Available,[],
+The Story of Art,Art,41.14,4,In stock,26,The,,False,High,High,Available,[],
+The Origin of Species,Science,10.01,4,In stock,26,The,,False,Low,High,Available,[],
+The Great Gatsby,Uncategorized,36.05,4,In stock,26,The,,False,High,High,Available,[],
+The Good Girl,Uncategorized,49.03,3,In stock,26,The,,False,Premium,Average,Available,[],
+The Glass Castle,Uncategorized,16.24,1,In stock,26,The,,False,Low,Low,Available,[],
+The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,Biography,39.55,1,In stock,26,The,,True,High,Low,Available,[],The Restless Soul of the World's Most Notorious Atheist
+The Drowning Girls,Uncategorized,35.67,3,In stock,26,The,,False,Medium,Average,Available,[],
+The Constant Princess (The Tudor Court #1),Historical Fiction,16.62,3,In stock,26,The,1,True,Low,Average,Available,['1'],
+The Bourne Identity (Jason Bourne #1),Fiction,42.78,4,In stock,26,The,1,True,High,High,Available,['1'],
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),Mystery,52.3,5,In stock,26,The,1,True,Premium,High,Available,['1'],
+The Art Book,Art,32.34,2,In stock,26,The,,False,Medium,Low,Available,[],
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Uncategorized,33.17,4,In stock,26,The,7,True,Medium,High,Available,['7'],Powerful Lessons in Personal Change
+Team of Rivals: The Political Genius of Abraham Lincoln,Uncategorized,20.12,5,In stock,26,Team,,True,Low,High,Available,[],The Political Genius of Abraham Lincoln
+Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Uncategorized,20.9,2,In stock,26,Steal,10,True,Low,Low,Available,['10'],10 Things Nobody Told You About Being Creative
+"Sit, Stay, Love",Romance,20.9,3,In stock,26,Sit,,True,Low,Average,Available,[],
+Sister Dear,Fiction,40.2,4,In stock,26,Sister,,False,High,High,Available,[],
+"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",Childrens,52.87,3,In stock,26,Shrunken,,True,Premium,Average,Available,[],"Literary Classics, Short, Sweet, and Silly"
+"Rich Dad, Poor Dad",Business,51.74,1,In stock,26,Rich,,True,Premium,Low,Available,[],
+Raymie Nightingale,Childrens,34.41,2,In stock,26,Raymie,,False,Medium,Low,Available,[],
+Playing from the Heart,Childrens,32.38,1,In stock,26,Playing,,False,Medium,Low,Available,[],
+Nightstruck: A Novel,Young Adult,50.35,4,In stock,27,Nightstruck,,True,Premium,High,Available,[],A Novel
+"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",Food and Drink,11.38,5,In stock,27,Naturally,125,True,Low,High,Available,"['125', '300']","125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories"
+Meternity,Womens Fiction,43.58,3,In stock,27,Meternity,,False,High,Average,Available,[],
+Memoirs of a Geisha,Fiction,49.67,3,In stock,27,Memoirs,,False,Premium,Average,Available,[],
+Like Never Before (Walker Family #2),Christian Fiction,28.77,2,In stock,27,Like,2,True,Medium,Low,Available,['2'],
+Life of Pi,Uncategorized,13.22,4,In stock,27,Life,,False,Low,High,Available,[],
+Leave This Song Behind: Teen Poetry at Its Best,Poetry,51.17,5,In stock,27,Leave,,True,Premium,High,Available,[],Teen Poetry at Its Best
+King's Folly (The Kinsman Chronicles #1),Fantasy,39.61,5,In stock,27,King,1,True,High,High,Available,['1'],
+John Adams,Uncategorized,57.43,4,In stock,27,John,,False,Premium,High,Available,[],
+How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),Food and Drink,46.01,4,In stock,27,How,,True,High,High,Available,[],Simple Meatless Recipes for Great Food (How to Cook Everything)
+How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,Food and Drink,28.25,2,In stock,27,How,,True,Medium,Low,Available,[],Baking and the Art of Comfort Cooking
+Good in Bed (Cannie Shapiro #1),Uncategorized,37.05,5,In stock,27,Good,1,True,High,High,Available,['1'],
+"Fruits Basket, Vol. 7 (Fruits Basket #7)",Sequential Art,19.57,1,In stock,27,Fruits,7,True,Low,Low,Available,"['7', '7']",
+For the Love: Fighting for Grace in a World of Impossible Standards,Nonfiction,45.13,3,In stock,27,For,,True,High,Average,Available,[],Fighting for Grace in a World of Impossible Standards
+Finding God in the Ruins: How God Redeems Pain,Nonfiction,46.64,2,In stock,27,Finding,,True,High,Low,Available,[],How God Redeems Pain
+Every Heart a Doorway (Every Heart A Doorway #1),Fantasy,12.16,5,In stock,27,Every,1,True,Low,High,Available,['1'],
+Delivering the Truth (Quaker Midwife Mystery #1),Mystery,20.89,4,In stock,27,Delivering,1,True,Low,High,Available,['1'],
+Counted With the Stars (Out from Egypt #1),Christian Fiction,17.97,5,In stock,27,Counted,1,True,Low,High,Available,['1'],
+"Chronicles, Vol. 1",Music,52.6,2,In stock,27,Chronicles,1,True,Premium,Low,Available,['1'],
+Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Christian,25.77,1,In stock,27,Blue,,True,Medium,Low,Available,[],Nonreligious Thoughts on Christian Spirituality
+Benjamin Franklin: An American Life,Biography,48.19,3,In stock,28,Benjamin,,True,Premium,Average,Available,[],An American Life
+"At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",Philosophy,29.93,5,In stock,28,At,,True,Medium,High,Available,[],"Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others"
+A Summer In Europe,Travel,44.34,2,In stock,28,A,,False,High,Low,Available,[],
+A Short History of Nearly Everything,History,52.4,5,In stock,28,A,,False,Premium,High,Available,[],
+A Gathering of Shadows (Shades of Magic #2),Fantasy,44.81,4,In stock,28,A,2,True,High,High,Available,['2'],
+The Sound Of Love,Uncategorized,57.84,5,In stock,28,The,,False,Premium,High,Available,[],
+The Rise and Fall of the Third Reich: A History of Nazi Germany,History,39.67,2,In stock,28,The,,True,High,Low,Available,[],A History of Nazi Germany
+The Perks of Being a Wallflower,Uncategorized,55.02,3,In stock,28,The,,False,Premium,Average,Available,[],
+The Mysterious Affair at Styles (Hercule Poirot #1),Mystery,24.8,4,In stock,28,The,1,True,Medium,High,Available,['1'],
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Nonfiction,59.45,4,In stock,28,The,,False,Premium,High,Available,[],
+The Makings of a Fatherless Child,Uncategorized,31.58,2,In stock,28,The,,False,Medium,Low,Available,[],
+The Joy of Cooking,Uncategorized,43.27,4,In stock,28,The,,False,High,High,Available,[],
+The Invention of Wings,Historical Fiction,37.34,1,In stock,28,The,,False,High,Low,Available,[],
+The Hobbit (Middle-Earth Universe),Uncategorized,17.8,5,In stock,28,The,,True,Low,High,Available,[],
+The Great Railway Bazaar,Travel,30.54,1,In stock,28,The,,False,Medium,Low,Available,[],
+The Golden Compass (His Dark Materials #1),Uncategorized,18.77,1,In stock,28,The,1,True,Low,Low,Available,['1'],
+The God Delusion,Uncategorized,46.85,3,In stock,28,The,,False,High,Average,Available,[],
+The Girl You Left Behind (The Girl You Left Behind #1),Historical,15.79,1,In stock,28,The,1,True,Low,Low,Available,['1'],
+The Fellowship of the Ring (The Lord of the Rings #1),Uncategorized,10.27,2,In stock,28,The,1,True,Low,Low,Available,['1'],
+The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),Poetry,15.42,5,In stock,28,The,1,True,Low,High,Available,['1'],
+The Barefoot Contessa Cookbook,Food and Drink,59.92,5,In stock,29,The,,False,Premium,High,Available,[],
+Tell the Wolves I'm Home,Young Adult,50.96,2,In stock,29,Tell,,True,Premium,Low,Available,[],
+Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,Uncategorized,30.6,3,In stock,29,Ship,,True,Medium,Average,Available,[],Essays on Travel by a Recovering Journeyman
+Pride and Prejudice,Uncategorized,19.27,4,In stock,29,Pride,,False,Low,High,Available,[],
+Musicophilia: Tales of Music and the Brain,Uncategorized,46.58,1,In stock,29,Musicophilia,,True,High,Low,Available,[],Tales of Music and the Brain
+Mere Christianity,Uncategorized,48.51,3,In stock,29,Mere,,False,Premium,Average,Available,[],
+Me Before You (Me Before You #1),Fiction,19.02,1,In stock,29,Me,1,True,Low,Low,Available,['1'],
+In the Woods (Dublin Murder Squad #1),Mystery,38.38,2,In stock,29,In,1,True,High,Low,Available,['1'],
+In Cold Blood,Nonfiction,49.98,4,In stock,29,In,,False,Premium,High,Available,[],
+How to Stop Worrying and Start Living,Self Help,46.49,5,In stock,29,How,,False,High,High,Available,[],
+Give It Back,Thriller,18.32,2,In stock,29,Give,,False,Low,Low,Available,[],
+"Girl, Interrupted",Nonfiction,42.14,3,In stock,29,Girl,,True,High,Average,Available,[],
+Fun Home: A Family Tragicomic,Uncategorized,56.59,4,In stock,29,Fun,,True,Premium,High,Available,[],A Family Tragicomic
+"Fruits Basket, Vol. 6 (Fruits Basket #6)",Sequential Art,20.96,4,In stock,29,Fruits,6,True,Low,High,Available,"['6', '6']",
+Deception Point,Fiction,40.32,4,In stock,29,Deception,,False,High,High,Available,[],
+"Death Note, Vol. 6: Give-and-Take (Death Note #6)",Sequential Art,36.39,3,In stock,29,Death,6,True,High,Average,Available,"['6', '6']",Give-and-Take (Death Note #6)
+Catherine the Great: Portrait of a Woman,History,58.55,4,In stock,29,Catherine,,True,Premium,High,Available,[],Portrait of a Woman
+Better Homes and Gardens New Cook Book,Food and Drink,39.61,3,In stock,29,Better,,False,High,Average,Available,[],
+An Unquiet Mind: A Memoir of Moods and Madness,Psychology,21.3,3,In stock,29,An,,True,Low,Average,Available,[],A Memoir of Moods and Madness
+A Year in Provence (Provence #1),Travel,56.88,4,In stock,29,A,1,True,Premium,High,Available,['1'],
+World Without End (The Pillars of the Earth #2),Historical Fiction,32.97,4,In stock,30,World,2,True,Medium,High,Available,['2'],
+"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",Young Adult,47.31,4,In stock,30,Will,,True,High,High,Available,[],
+Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,Nonfiction,48.67,2,In stock,30,Why,,True,Premium,Low,Available,[],And Other Essays on Our Economic and Political Crisis
+Where She Went (If I Stay #2),Young Adult,41.73,4,In stock,30,Where,2,True,High,High,Available,['2'],
+What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Uncategorized,53.68,4,In stock,30,What,,True,Premium,High,Available,[],Serious Scientific Answers to Absurd Hypothetical Questions
+Two Summers,Young Adult,14.64,1,In stock,30,Two,,False,Low,Low,Available,[],
+This Is Your Brain on Music: The Science of a Human Obsession,Music,38.4,1,In stock,30,This,,True,High,Low,Available,[],The Science of a Human Obsession
+The Secret Garden,Classics,15.08,4,In stock,30,The,,False,Low,High,Available,[],
+The Raven King (The Raven Cycle #4),Uncategorized,30.57,2,In stock,30,The,4,True,Medium,Low,Available,['4'],
+The Raven Boys (The Raven Cycle #1),Fantasy,57.74,4,In stock,30,The,1,True,Premium,High,Available,['1'],
+The Power Greens Cookbook: 140 Delicious Superfood Recipes,Food and Drink,11.05,5,In stock,30,The,140,True,Low,High,Available,['140'],140 Delicious Superfood Recipes
+The Metamorphosis,Classics,28.58,1,In stock,30,The,,False,Medium,Low,Available,[],
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,History,42.91,5,In stock,30,The,,True,High,High,Available,[],Seven Brothers and the War Against Hitler's U-boats
+The Little Paris Bookshop,Fiction,24.73,3,In stock,30,The,,False,Medium,Average,Available,[],
+The Hiding Place,History,55.91,4,In stock,30,The,,False,Premium,High,Available,[],
+The Grand Design,Science,13.76,3,In stock,30,The,,False,Low,Average,Available,[],
+The Firm,Fiction,45.56,3,In stock,30,The,,False,High,Average,Available,[],
+The Fault in Our Stars,Uncategorized,47.22,1,In stock,30,The,,False,High,Low,Available,[],
+The False Prince (The Ascendance Trilogy #1),Fantasy,56.0,5,In stock,30,The,1,True,Premium,High,Available,['1'],
+The Expatriates,Fiction,44.58,2,In stock,30,The,,False,High,Low,Available,[],
+The Dream Thieves (The Raven Cycle #2),Uncategorized,34.5,1,In stock,31,The,2,True,Medium,Low,Available,['2'],
+The Darkest Corners,Young Adult,11.33,5,In stock,31,The,,False,Low,High,Available,[],
+The Crossover,Poetry,38.77,4,In stock,31,The,,False,High,High,Available,[],
+The 5th Wave (The 5th Wave #1),Uncategorized,11.83,2,In stock,31,The,5,True,Low,Low,Available,"['5', '5', '1']",
+Tell the Wind and Fire,Fantasy,45.51,3,In stock,31,Tell,,False,High,Average,Available,[],
+Tell Me Three Things,Young Adult,41.81,1,In stock,31,Tell,,False,High,Low,Available,[],
+Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,Nonfiction,25.15,4,In stock,31,Talking,,True,Medium,High,Available,[],One Young Man's Quest for True Love and a Cooler Haircut
+Siddhartha,Fiction,34.22,5,In stock,31,Siddhartha,,False,Medium,High,Available,[],
+Shiver (The Wolves of Mercy Falls #1),Uncategorized,16.23,5,In stock,31,Shiver,1,True,Low,High,Available,['1'],
+Remember Me?,Uncategorized,11.48,3,In stock,31,Remember,,True,Low,Average,Available,[],
+Red Dragon (Hannibal Lecter #1),Horror,23.37,3,In stock,31,Red,1,True,Medium,Average,Available,['1'],
+Peak: Secrets from the New Science of Expertise,Science,16.28,2,In stock,31,Peak,,True,Low,Low,Available,[],Secrets from the New Science of Expertise
+My Mother Was Nuts,Nonfiction,31.63,4,In stock,31,My,,False,Medium,High,Available,[],
+Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,Food and Drink,24.91,5,In stock,31,Mexican,,True,Medium,High,Available,[],New and Rediscovered Recipes for Contemporary Kitchens
+Maybe Something Beautiful: How Art Transformed a Neighborhood,Childrens,22.54,1,In stock,31,Maybe,,True,Medium,Low,Available,[],How Art Transformed a Neighborhood
+Lola and the Boy Next Door (Anna and the French Kiss #2),Young Adult,23.63,4,In stock,31,Lola,2,True,Medium,High,Available,['2'],
+Logan Kade (Fallen Crest High #5.5),Academic,13.12,2,In stock,31,Logan,5,True,Low,Low,Available,"['5', '5']",
+Last One Home (New Beginnings #1),Fiction,59.98,3,In stock,31,Last,1,True,Premium,Average,Available,['1'],
+Killing Floor (Jack Reacher #1),Thriller,31.49,4,In stock,31,Killing,1,True,Medium,High,Available,['1'],
+Kill the Boy Band,Young Adult,15.52,5,In stock,31,Kill,,False,Low,High,Available,[],
+Isla and the Happily Ever After (Anna and the French Kiss #3),Young Adult,48.13,5,In stock,32,Isla,3,True,Premium,High,Available,['3'],
+If I Stay (If I Stay #1),Uncategorized,38.13,5,In stock,32,If,1,True,High,High,Available,['1'],
+I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),Uncategorized,36.55,2,In stock,32,I,1,True,High,Low,Available,['1'],
+Harry Potter and the Deathly Hallows (Harry Potter #7),Uncategorized,23.32,1,In stock,32,Harry,7,True,Medium,Low,Available,['7'],
+"Fruits Basket, Vol. 5 (Fruits Basket #5)",Sequential Art,16.33,1,In stock,32,Fruits,5,True,Low,Low,Available,"['5', '5']",
+Foundation (Foundation (Publication Order) #1),Science Fiction,32.42,1,In stock,32,Foundation,1,True,Medium,Low,Available,['1'],
+Fool Me Once,Uncategorized,16.96,1,In stock,32,Fool,,False,Low,Low,Available,[],
+Find Her (Detective D.D. Warren #8),Uncategorized,22.37,1,In stock,32,Find,8,True,Medium,Low,Available,['8'],
+Evicted: Poverty and Profit in the American City,Uncategorized,42.27,1,In stock,32,Evicted,,True,High,Low,Available,[],Poverty and Profit in the American City
+Drama,Uncategorized,38.7,2,In stock,32,Drama,,False,High,Low,Available,[],
+Dracula the Un-Dead,Horror,35.63,5,In stock,32,Dracula,,True,Medium,High,Available,[],
+Digital Fortress,Fiction,58.0,5,In stock,32,Digital,,False,Premium,High,Available,[],
+"Death Note, Vol. 5: Whiteout (Death Note #5)",Sequential Art,52.41,1,In stock,32,Death,5,True,Premium,Low,Available,"['5', '5']",Whiteout (Death Note #5)
+"Data, A Love Story: How I Gamed Online Dating to Meet My Match",Nonfiction,32.35,3,In stock,32,Data,,True,Medium,Average,Available,[],How I Gamed Online Dating to Meet My Match
+Critique of Pure Reason,Philosophy,20.75,1,In stock,32,Critique,,False,Low,Low,Available,[],
+Booked,Poetry,17.49,5,In stock,32,Booked,,False,Low,High,Available,[],
+"Blue Lily, Lily Blue (The Raven Cycle #3)",Uncategorized,34.13,5,In stock,32,Blue,3,True,Medium,High,Available,['3'],
+Approval Junkie: Adventures in Caring Too Much,Autobiography,58.81,5,In stock,32,Approval,,True,Premium,High,Available,[],Adventures in Caring Too Much
+An Abundance of Katherines,Young Adult,10.0,5,In stock,32,An,,False,Low,High,Available,[],
+America's War for the Greater Middle East: A Military History,History,51.22,2,In stock,32,America,,True,Premium,Low,Available,[],A Military History
+Alight (The Generations Trilogy #2),Uncategorized,58.59,4,In stock,33,Alight,2,True,Premium,High,Available,['2'],
+A Girl's Guide to Moving On (New Beginnings #2),Romance,31.3,1,In stock,33,A,2,True,Medium,Low,Available,['2'],
+A Game of Thrones (A Song of Ice and Fire #1),Uncategorized,46.42,2,In stock,33,A,1,True,High,Low,Available,['1'],
+A Feast for Crows (A Song of Ice and Fire #4),Fantasy,17.21,4,In stock,33,A,4,True,Low,High,Available,['4'],
+A Clash of Kings (A Song of Ice and Fire #2),Uncategorized,10.79,3,In stock,33,A,2,True,Low,Average,Available,['2'],
+Vogue Colors A to Z: A Fashion Coloring Book,Uncategorized,52.35,4,In stock,33,Vogue,,True,Premium,High,Available,[],A Fashion Coloring Book
+The Shining (The Shining #1),Uncategorized,27.88,3,In stock,33,The,1,True,Medium,Average,Available,['1'],
+The Pilgrim's Progress,Classics,50.26,2,In stock,33,The,,True,Premium,Low,Available,[],
+The Perfect Play (Play by Play #1),Romance,59.99,3,In stock,33,The,1,True,Premium,Average,Available,['1'],
+The Passion of Dolssa,Historical Fiction,28.32,5,In stock,33,The,,False,Medium,High,Available,[],
+The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,Nonfiction,38.71,3,In stock,33,The,,True,High,Average,Available,[],The Secret Link Between Music and the Structure of the Universe
+The Hunger Games (The Hunger Games #1),Uncategorized,29.85,5,In stock,33,The,1,True,Medium,High,Available,['1'],
+The Hound of the Baskervilles (Sherlock Holmes #5),Classics,14.82,2,In stock,33,The,5,True,Low,Low,Available,['5'],
+The Gunning of America: Business and the Making of American Gun Culture,Nonfiction,16.81,4,In stock,33,The,,True,Low,High,Available,[],Business and the Making of American Gun Culture
+The Geography of Bliss: One Grump's Search for the Happiest Places in the World,Nonfiction,28.23,2,In stock,33,The,,True,Medium,Low,Available,[],One Grump's Search for the Happiest Places in the World
+The Demonists (Demonist #1),Fantasy,52.11,2,In stock,33,The,1,True,Premium,Low,Available,['1'],
+"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",Sequential Art,27.88,2,In stock,33,The,4,True,Medium,Low,Available,"['4', '4']",
+The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),Thriller,59.71,3,In stock,33,The,2,True,Premium,Average,Available,['2'],
+The Beast (Black Dagger Brotherhood #14),Fantasy,46.08,5,In stock,33,The,14,True,High,High,Available,['14'],
+Some Women,Womens Fiction,13.73,5,In stock,33,Some,,False,Low,High,Available,[],
+Shopaholic Ties the Knot (Shopaholic #3),Womens Fiction,48.39,5,In stock,34,Shopaholic,3,True,Premium,High,Available,['3'],
+Paper and Fire (The Great Library #2),Fantasy,49.45,5,In stock,34,Paper,2,True,Premium,High,Available,['2'],
+Outlander (Outlander #1),Uncategorized,19.67,5,In stock,34,Outlander,1,True,Low,High,Available,['1'],
+"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",Music,12.36,3,In stock,34,Orchestra,,True,Low,Average,Available,[],"The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors"
+No One Here Gets Out Alive,Music,20.02,5,In stock,34,No,,False,Low,High,Available,[],
+Night Shift (Night Shift #1-20),Horror,12.75,4,In stock,34,Night,1,True,Low,High,Available,"['1', '20']",
+Needful Things,Horror,47.51,4,In stock,34,Needful,,False,Premium,High,Available,[],
+Mockingjay (The Hunger Games #3),Uncategorized,20.44,4,In stock,34,Mockingjay,3,True,Low,High,Available,['3'],
+Misery,Horror,34.79,2,In stock,34,Misery,,False,Medium,Low,Available,[],
+Little Women (Little Women #1),Classics,28.07,4,In stock,34,Little,1,True,Medium,High,Available,['1'],
+It,Horror,25.01,3,In stock,34,It,,False,Medium,Average,Available,[],
+Harry Potter and the Sorcerer's Stone (Harry Potter #1),Uncategorized,13.9,3,In stock,34,Harry,1,True,Low,Average,Available,['1'],
+Harry Potter and the Prisoner of Azkaban (Harry Potter #3),Young Adult,24.17,4,In stock,34,Harry,3,True,Medium,High,Available,['3'],
+Harry Potter and the Order of the Phoenix (Harry Potter #5),Fantasy,31.63,4,In stock,34,Harry,5,True,Medium,High,Available,['5'],
+Harry Potter and the Half-Blood Prince (Harry Potter #6),Fantasy,48.75,5,In stock,34,Harry,6,True,Premium,High,Available,['6'],
+Harry Potter and the Chamber of Secrets (Harry Potter #2),Fantasy,14.74,1,In stock,34,Harry,2,True,Low,Low,Available,['2'],
+Gone with the Wind,Classics,32.49,3,In stock,34,Gone,,False,Medium,Average,Available,[],
+God Is Not Great: How Religion Poisons Everything,Nonfiction,27.8,1,In stock,34,God,,True,Medium,Low,Available,[],How Religion Poisons Everything
+Girl With a Pearl Earring,Historical Fiction,26.77,1,In stock,34,Girl,,False,Medium,Low,Available,[],
+"Fruits Basket, Vol. 4 (Fruits Basket #4)",Sequential Art,50.44,4,In stock,34,Fruits,4,True,Premium,High,Available,"['4', '4']",
+Far From True (Promise Falls Trilogy #2),Thriller,34.93,2,In stock,35,Far,2,True,Medium,Low,Available,['2'],
+Dark Lover (Black Dagger Brotherhood #1),Romance,12.87,1,In stock,35,Dark,1,True,Low,Low,Available,['1'],
+Confessions of a Shopaholic (Shopaholic #1),Uncategorized,48.94,2,In stock,35,Confessions,1,True,Premium,Low,Available,['1'],
+Changing the Game (Play by Play #2),Romance,13.38,3,In stock,35,Changing,2,True,Low,Average,Available,['2'],
+Candide,Classics,58.63,3,In stock,35,Candide,,False,Premium,Average,Available,[],
+Can You Keep a Secret?,Womens Fiction,21.94,1,In stock,35,Can,,True,Low,Low,Available,[],
+Atlas Shrugged,Fiction,26.58,5,In stock,35,Atlas,,False,Medium,High,Available,[],
+Animal Farm,Classics,57.22,3,In stock,35,Animal,,False,Premium,Average,Available,[],
+A Walk to Remember,Romance,56.43,1,In stock,35,A,,False,Premium,Low,Available,[],
+A New Earth: Awakening to Your Life's Purpose,Spirituality,55.65,5,In stock,35,A,,True,Premium,High,Available,[],Awakening to Your Life's Purpose
+"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",Religion,27.62,1,In stock,35,A,4,True,Medium,Low,Available,"['4', '000']","The 4,000-Year Quest of Judaism, Christianity, and Islam"
+'Salem's Lot,Horror,49.56,4,In stock,35,,,True,Premium,High,Available,[],
+Zero History (Blue Ant #3),Uncategorized,34.77,1,In stock,35,Zero,3,True,Medium,Low,Available,['3'],
+Wuthering Heights,Classics,17.73,3,In stock,35,Wuthering,,False,Low,Average,Available,[],
+World War Z: An Oral History of the Zombie War,Uncategorized,21.8,1,In stock,35,World,,True,Low,Low,Available,[],An Oral History of the Zombie War
+Wild: From Lost to Found on the Pacific Crest Trail,Uncategorized,46.02,3,In stock,35,Wild,,True,High,Average,Available,[],From Lost to Found on the Pacific Crest Trail
+"Where'd You Go, Bernadette",Uncategorized,18.13,1,In stock,35,Where,,True,Low,Low,Available,[],
+When You Are Engulfed in Flames,Humor,30.89,5,In stock,35,When,,False,Medium,High,Available,[],
+We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,Nonfiction,31.95,3,In stock,35,We,,True,Medium,Average,Available,[],The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America
+We Are All Completely Beside Ourselves,Contemporary,24.04,1,In stock,35,We,,False,Medium,Low,Available,[],
+Walk the Edge (Thunder Road #2),Young Adult,32.36,3,In stock,36,Walk,2,True,Medium,Average,Available,['2'],
+Voyager (Outlander #3),Historical Fiction,21.07,5,In stock,36,Voyager,3,True,Low,High,Available,['3'],
+Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,Nonfiction,50.66,3,In stock,36,Very,,True,Premium,Average,Available,[],The Fringe Benefits of Failure and the Importance of Imagination
+Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,Food and Drink,13.66,2,In stock,36,Vegan,,True,Low,Low,Available,[],Dinner for Everyone at the Table
+"Unstuffed: Decluttering Your Home, Mind, and Soul",Nonfiction,58.09,1,In stock,36,Unstuffed,,True,Premium,Low,Available,[],"Decluttering Your Home, Mind, and Soul"
+Under the Banner of Heaven: A Story of Violent Faith,Nonfiction,30.0,1,In stock,36,Under,,True,Medium,Low,Available,[],A Story of Violent Faith
+Two Boys Kissing,Young Adult,32.74,2,In stock,36,Two,,False,Medium,Low,Available,[],
+Twilight (Twilight #1),Uncategorized,41.93,2,In stock,36,Twilight,1,True,High,Low,Available,['1'],
+Twenties Girl,Womens Fiction,42.8,2,In stock,36,Twenties,,False,High,Low,Available,[],
+"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",Nonfiction,53.51,1,In stock,36,Trespassing,,True,Premium,Low,Available,[],"One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland"
+Three-Martini Lunch,Fiction,23.21,3,In stock,36,Three,,True,Medium,Average,Available,[],
+"Thinking, Fast and Slow",Psychology,21.14,1,In stock,36,Thinking,,True,Low,Low,Available,[],
+The Wild Robot,Childrens,56.07,3,In stock,36,The,,False,Premium,Average,Available,[],
+"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",Sequential Art,14.41,3,In stock,36,The,3,True,Low,Average,Available,['3'],Commercial Suicide (The Wicked + The Divine)
+The Undomestic Goddess,Womens Fiction,45.75,4,In stock,36,The,,False,High,High,Available,[],
+The Travelers,Thriller,15.77,1,In stock,36,The,,False,Low,Low,Available,[],
+The Tipping Point: How Little Things Can Make a Big Difference,Uncategorized,10.02,2,In stock,36,The,,True,Low,Low,Available,[],How Little Things Can Make a Big Difference
+The Thing About Jellyfish,Childrens,48.77,1,In stock,36,The,,False,Premium,Low,Available,[],
+The Stand,Horror,57.86,2,In stock,36,The,,False,Premium,Low,Available,[],
+The Smitten Kitchen Cookbook,Food and Drink,23.59,1,In stock,36,The,,False,Medium,Low,Available,[],
+The Silkworm (Cormoran Strike #2),Mystery,23.05,5,In stock,37,The,2,True,Medium,High,Available,['2'],
+"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",Sequential Art,55.55,5,In stock,37,The,3,True,Premium,High,Available,"['3', '3']",Dream Country (The Sandman (volumes) #3)
+The Rose & the Dagger (The Wrath and the Dawn #2),Fantasy,58.64,4,In stock,37,The,2,True,Premium,High,Available,['2'],
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),Travel,23.21,1,In stock,37,The,2,True,Medium,Low,Available,['2'],Adventures of an American in Britain (Notes From a Small Island #2)
+The Rise of Theodore Roosevelt (Theodore Roosevelt #1),Biography,42.57,3,In stock,37,The,1,True,High,Average,Available,['1'],
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),Science Fiction,10.92,1,In stock,37,The,2,True,Low,Low,Available,['2'],
+The Rest Is Noise: Listening to the Twentieth Century,Uncategorized,34.77,1,In stock,37,The,,True,Medium,Low,Available,[],Listening to the Twentieth Century
+The Red Tent,Historical Fiction,35.66,5,In stock,37,The,,False,Medium,High,Available,[],
+The Purpose Driven Life: What on Earth Am I Here for?,Uncategorized,37.19,3,In stock,37,The,,True,High,Average,Available,[],What on Earth Am I Here for?
+The Purest Hook (Second Circle Tattoos #3),Romance,12.25,1,In stock,37,The,3,True,Low,Low,Available,['3'],
+The Picture of Dorian Gray,Classics,29.7,2,In stock,37,The,,False,Medium,Low,Available,[],
+The Paris Wife,Uncategorized,36.8,3,In stock,37,The,,False,High,Average,Available,[],
+The Obsession,Romance,45.43,1,In stock,37,The,,False,High,Low,Available,[],
+The Nightingale,Fiction,26.26,4,In stock,37,The,,False,Medium,High,Available,[],
+The New Guy (and Other Senior Year Distractions),Young Adult,44.92,3,In stock,37,The,,True,High,Average,Available,[],
+The Nanny Diaries (Nanny #1),Womens Fiction,52.53,5,In stock,37,The,1,True,Premium,High,Available,['1'],
+The Name of God is Mercy,Nonfiction,37.25,2,In stock,37,The,,False,High,Low,Available,[],
+The Maze Runner (The Maze Runner #1),Uncategorized,20.93,1,In stock,37,The,1,True,Low,Low,Available,['1'],
+The Lover's Dictionary,Uncategorized,58.09,2,In stock,37,The,,True,Premium,Low,Available,[],
+The Lonely Ones,Childrens,43.59,5,In stock,37,The,,False,High,High,Available,[],
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Business,33.92,3,In stock,38,The,,True,Medium,Average,Available,[],How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+The Last Painting of Sara de Vos,Historical Fiction,55.55,2,In stock,38,The,,False,Premium,Low,Available,[],
+"The Land of 10,000 Madonnas",Young Adult,29.64,4,In stock,38,The,10,True,Medium,High,Available,"['10', '000']",
+The Infinities,Fiction,27.41,1,In stock,38,The,,False,Medium,Low,Available,[],
+The Husband's Secret,Fiction,52.51,5,In stock,38,The,,True,Premium,High,Available,[],
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),Uncategorized,47.8,3,In stock,38,The,1,True,Premium,Average,Available,['1'],
+The Guns of August,History,14.54,2,In stock,38,The,,False,Low,Low,Available,[],
+The Guernsey Literary and Potato Peel Pie Society,Historical Fiction,49.53,1,In stock,38,The,,False,Premium,Low,Available,[],
+The Goldfinch,Uncategorized,43.58,3,In stock,38,The,,False,High,Average,Available,[],
+The Giver (The Giver Quartet #1),Uncategorized,12.3,1,In stock,38,The,1,True,Low,Low,Available,['1'],
+The Girl with All the Gifts,Horror,49.47,3,In stock,38,The,,False,Premium,Average,Available,[],
+The Girl Who Played with Fire (Millennium Trilogy #2),Uncategorized,22.14,2,In stock,38,The,2,True,Medium,Low,Available,['2'],
+The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),Uncategorized,57.48,1,In stock,38,The,3,True,Premium,Low,Available,['3'],
+The Exiled,Mystery,43.45,3,In stock,38,The,,False,High,Average,Available,[],
+"The End of Faith: Religion, Terror, and the Future of Reason",Uncategorized,22.13,4,In stock,38,The,,True,Medium,High,Available,[],"Religion, Terror, and the Future of Reason"
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Science,13.03,4,In stock,38,The,,True,Low,High,Available,[],"Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Science,57.35,5,In stock,38,The,,True,Premium,High,Available,[],"And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements"
+The Devil Wears Prada (The Devil Wears Prada #1),Womens Fiction,44.29,1,In stock,38,The,1,True,High,Low,Available,['1'],
+The Demon-Haunted World: Science as a Candle in the Dark,Uncategorized,52.25,4,In stock,38,The,,True,Premium,High,Available,[],Science as a Candle in the Dark
+The Day the Crayons Came Home (Crayons),Childrens,26.33,5,In stock,38,The,,True,Medium,High,Available,[],
+The Da Vinci Code (Robert Langdon #2),Fiction,22.96,2,In stock,39,The,2,True,Medium,Low,Available,['2'],
+The Cuckoo's Calling (Cormoran Strike #1),Mystery,19.21,1,In stock,39,The,1,True,Low,Low,Available,['1'],
+The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),Classics,26.78,4,In stock,39,The,,True,Medium,High,Available,[],
+The Complete Poems,Uncategorized,41.32,5,In stock,39,The,,False,High,High,Available,[],
+The Catcher in the Rye,Uncategorized,24.55,1,In stock,39,The,,False,Medium,Low,Available,[],
+The Cat in the Hat (Beginner Books B-1),Childrens,16.26,2,In stock,39,The,1,True,Low,Low,Available,['1'],
+The Case for Christ (Cases for Christianity),Uncategorized,47.84,1,In stock,39,The,,True,Premium,Low,Available,[],
+The Book Thief,Uncategorized,53.49,2,In stock,39,The,,False,Premium,Low,Available,[],
+The Book of Basketball: The NBA According to The Sports Guy,Sports and Games,44.84,5,In stock,39,The,,True,High,High,Available,[],The NBA According to The Sports Guy
+The Blind Side: Evolution of a Game,Uncategorized,53.71,5,In stock,39,The,,True,Premium,High,Available,[],Evolution of a Game
+The Autobiography of Malcolm X,Uncategorized,23.43,2,In stock,39,The,,False,Medium,Low,Available,[],
+"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",Food and Drink,34.32,3,In stock,39,The,,True,Medium,Average,Available,[],"Notes, Lessons, and Recipes from a Delicious Revolution"
+The Art of Fielding,Fiction,22.1,1,In stock,39,The,,False,Low,Low,Available,[],
+"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Science,25.83,2,In stock,39,Surely,,True,Medium,Low,Available,[],Adventures of a Curious Character
+Stiff: The Curious Lives of Human Cadavers,Nonfiction,36.74,3,In stock,39,Stiff,,True,High,Average,Available,[],The Curious Lives of Human Cadavers
+Spilled Milk: Based on a True Story,Nonfiction,49.51,1,In stock,39,Spilled,,True,Premium,Low,Available,[],Based on a True Story
+Something Borrowed (Darcy & Rachel #1),Womens Fiction,48.96,5,In stock,39,Something,1,True,Premium,High,Available,['1'],
+Something Blue (Darcy & Rachel #2),Womens Fiction,54.62,1,In stock,39,Something,2,True,Premium,Low,Available,['2'],
+Soldier (Talon #3),Fantasy,24.72,2,In stock,39,Soldier,3,True,Medium,Low,Available,['3'],
+Shopaholic & Baby (Shopaholic #5),Uncategorized,46.45,2,In stock,39,Shopaholic,5,True,High,Low,Available,['5'],
+Seven Days in the Art World,Uncategorized,52.33,2,In stock,40,Seven,,False,Premium,Low,Available,[],
+Seven Brief Lessons on Physics,Science,30.6,4,In stock,40,Seven,,False,Medium,High,Available,[],
+Scarlet (The Lunar Chronicles #2),Young Adult,14.57,4,In stock,40,Scarlet,2,True,Low,High,Available,['2'],
+Sarah's Key,Uncategorized,46.29,1,In stock,40,Sarah,,True,High,Low,Available,[],
+"Saga, Volume 3 (Saga (Collected Editions) #3)",Sequential Art,21.57,5,In stock,40,Saga,3,True,Low,High,Available,"['3', '3']",
+Running with Scissors,Autobiography,12.91,4,In stock,40,Running,,False,Low,High,Available,[],
+Rogue Lawyer (Rogue Lawyer #1),Uncategorized,50.11,3,In stock,40,Rogue,1,True,Premium,Average,Available,['1'],
+"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",Nonfiction,41.67,4,In stock,40,Rise,,True,High,High,Available,[],"The Women Who Propelled Us, from Missiles to the Moon to Mars"
+Rework,Business,44.88,2,In stock,40,Rework,,False,High,Low,Available,[],
+Reservations for Two,Romance,11.1,3,In stock,40,Reservations,,False,Low,Average,Available,[],
+Red: The True Story of Red Riding Hood,Childrens,28.54,3,In stock,40,Red,,True,Medium,Average,Available,[],The True Story of Red Riding Hood
+Ready Player One,Science Fiction,19.07,4,In stock,40,Ready,,False,Low,High,Available,[],
+Quiet: The Power of Introverts in a World That Can't Stop Talking,Uncategorized,43.55,1,In stock,40,Quiet,,True,High,Low,Available,[],The Power of Introverts in a World That Can't Stop Talking
+Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),Sequential Art,43.63,3,In stock,40,Prodigy,2,True,High,Average,Available,['2'],The Graphic Novel (Legend: The Graphic Novel #2)
+Persepolis: The Story of a Childhood (Persepolis #1-2),Sequential Art,39.13,1,In stock,40,Persepolis,1,True,High,Low,Available,"['1', '2']",The Story of a Childhood (Persepolis #1-2)
+Packing for Mars: The Curious Science of Life in the Void,Uncategorized,56.68,2,In stock,40,Packing,,True,Premium,Low,Available,[],The Curious Science of Life in the Void
+Outliers: The Story of Success,Nonfiction,14.16,1,In stock,40,Outliers,,True,Low,Low,Available,[],The Story of Success
+Original Fake,Sequential Art,31.45,3,In stock,40,Original,,False,Medium,Average,Available,[],
+Orange Is the New Black,Uncategorized,24.61,2,In stock,40,Orange,,False,Medium,Low,Available,[],
+One for the Money (Stephanie Plum #1),Uncategorized,32.87,2,In stock,40,One,1,True,Medium,Low,Available,['1'],
+Notes from a Small Island (Notes From a Small Island #1),Nonfiction,40.17,1,In stock,41,Notes,1,True,High,Low,Available,['1'],
+Night (The Night Trilogy #1),Nonfiction,13.51,1,In stock,41,Night,1,True,Low,Low,Available,['1'],
+Neither Here nor There: Travels in Europe,Travel,38.95,3,In stock,41,Neither,,True,High,Average,Available,[],Travels in Europe
+Naked,Humor,31.69,3,In stock,41,Naked,,False,Medium,Average,Available,[],
+Morning Star (Red Rising #3),Uncategorized,29.4,1,In stock,41,Morning,3,True,Medium,Low,Available,['3'],
+"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",Nonfiction,57.83,1,In stock,41,Miracles,,True,Premium,Low,Available,[],"A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing"
+Midnight Riot (Peter Grant/ Rivers of London - books #1),Fantasy,55.46,2,In stock,41,Midnight,1,True,Premium,Low,Available,['1'],
+Me Talk Pretty One Day,Autobiography,57.6,2,In stock,41,Me,,False,Premium,Low,Available,[],
+Manuscript Found in Accra,Uncategorized,34.98,2,In stock,41,Manuscript,,False,Medium,Low,Available,[],
+Lust & Wonder,Autobiography,11.87,2,In stock,41,Lust,,True,Low,Low,Available,[],
+Lila (Gilead #3),Fiction,12.47,3,In stock,41,Lila,3,True,Low,Average,Available,['3'],
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",Science Fiction,33.26,2,In stock,41,Life,3,True,Medium,Low,Available,['3'],
+Life Without a Recipe,Autobiography,59.04,5,In stock,41,Life,,False,Premium,High,Available,[],
+Life After Life,Uncategorized,26.13,2,In stock,41,Life,,False,Medium,Low,Available,[],
+Letter to a Christian Nation,Nonfiction,22.2,1,In stock,41,Letter,,False,Medium,Low,Available,[],
+Let's Pretend This Never Happened: A Mostly True Memoir,Nonfiction,45.11,1,In stock,41,Let,,True,High,Low,Available,[],A Mostly True Memoir
+Legend (Legend #1),Young Adult,43.69,4,In stock,41,Legend,1,True,High,High,Available,['1'],
+"Lean In: Women, Work, and the Will to Lead",Uncategorized,25.02,1,In stock,41,Lean,,True,Medium,Low,Available,[],"Women, Work, and the Will to Lead"
+"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Humor,55.5,5,In stock,41,Lamb,,True,Premium,High,Available,[],"The Gospel According to Biff, Christ's Childhood Pal"
+Lady Renegades (Rebel Belle #3),Young Adult,53.04,5,In stock,41,Lady,3,True,Premium,High,Available,['3'],
+Jurassic Park (Jurassic Park #1),Fiction,44.97,1,In stock,42,Jurassic,1,True,High,Low,Available,['1'],
+It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,Nonfiction,42.38,1,In stock,42,It,,True,High,Low,Available,[],Discovering Creativity and Meaning at Midlife and Beyond
+Is Everyone Hanging Out Without Me? (And Other Concerns),Uncategorized,20.11,3,In stock,42,Is,,True,Low,Average,Available,[],
+Into the Wild,Nonfiction,56.7,5,In stock,42,Into,,False,Premium,High,Available,[],
+Inferno (Robert Langdon #4),Fiction,41.0,5,In stock,42,Inferno,4,True,High,High,Available,['4'],
+"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Nonfiction,28.85,3,In stock,42,In,,True,Medium,Average,Available,[],"Love, Terror, and an American Family in Hitler's Berlin"
+If I Run (If I Run #1),Christian Fiction,49.97,4,In stock,42,If,1,True,Premium,High,Available,['1'],
+I've Got Your Number,Womens Fiction,19.69,1,In stock,42,I,,True,Low,Low,Available,[],
+I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,Nonfiction,28.88,2,In stock,42,I,,True,Medium,Low,Available,[],The Girl Who Stood Up for Education and Was Shot by the Taliban
+Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,Food and Drink,33.14,3,In stock,42,Hungry,,True,Medium,Average,Available,[],Easy All-Natural Recipes for Healthy Eating in the Real World
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",History,43.7,2,In stock,42,House,,True,High,Low,Available,[],"Dinosaurs, Dynasties, and the Story of Life on Earth"
+House of Leaves,Horror,54.89,1,In stock,42,House,,False,Premium,Low,Available,[],
+Horrible Bear!,Childrens,37.52,2,In stock,42,Horrible,,True,High,Low,Available,[],
+Holidays on Ice,Humor,51.07,2,In stock,42,Holidays,,False,Premium,Low,Available,[],
+Heir to the Sky,Fantasy,44.07,4,In stock,42,Heir,,False,High,High,Available,[],
+Green Eggs and Ham (Beginner Books B-16),Childrens,10.79,4,In stock,42,Green,16,True,Low,High,Available,['16'],
+"Grayson, Vol 3: Nemesis (Grayson #3)",Sequential Art,42.72,1,In stock,42,Grayson,3,True,High,Low,Available,"['3', '3']",Nemesis (Grayson #3)
+Gratitude,Nonfiction,26.66,5,In stock,42,Gratitude,,False,Medium,High,Available,[],
+Gone Girl,Uncategorized,37.6,5,In stock,42,Gone,,False,High,High,Available,[],
+Golden (Heart of Dread #3),Young Adult,42.21,4,In stock,42,Golden,3,True,High,High,Available,['3'],
+Girl in the Blue Coat,Historical Fiction,46.83,2,In stock,43,Girl,,False,High,Low,Available,[],
+"Fruits Basket, Vol. 3 (Fruits Basket #3)",Sequential Art,45.17,2,In stock,43,Fruits,3,True,High,Low,Available,"['3', '3']",
+"Friday Night Lights: A Town, a Team, and a Dream",Sports and Games,51.22,3,In stock,43,Friday,,True,Premium,Average,Available,[],"A Town, a Team, and a Dream"
+Fire Bound (Sea Haven/Sisters of the Heart #5),Uncategorized,21.28,4,In stock,43,Fire,5,True,Low,High,Available,['5'],
+Fifty Shades Freed (Fifty Shades #3),Adult Fiction,15.36,5,In stock,43,Fifty,3,True,Low,High,Available,['3'],
+Fellside,Uncategorized,38.62,1,In stock,43,Fellside,,False,High,Low,Available,[],
+Extreme Prey (Lucas Davenport #26),Mystery,25.4,3,In stock,43,Extreme,26,True,Medium,Average,Available,['26'],
+Eragon (The Inheritance Cycle #1),Fantasy,43.87,3,In stock,43,Eragon,1,True,High,Average,Available,['1'],
+Eclipse (Twilight #3),Uncategorized,18.74,1,In stock,43,Eclipse,3,True,Low,Low,Available,['3'],
+Dune (Dune #1),Science Fiction,54.86,1,In stock,43,Dune,1,True,Premium,Low,Available,['1'],
+Dracula,Uncategorized,52.62,3,In stock,43,Dracula,,False,Premium,Average,Available,[],
+Do Androids Dream of Electric Sheep? (Blade Runner #1),Science Fiction,51.48,1,In stock,43,Do,1,True,Premium,Low,Available,['1'],
+Disrupted: My Misadventure in the Start-Up Bubble,Nonfiction,15.28,5,In stock,43,Disrupted,,True,Low,High,Available,[],My Misadventure in the Start-Up Bubble
+Dead Wake: The Last Crossing of the Lusitania,Uncategorized,39.24,5,In stock,43,Dead,,True,High,High,Available,[],The Last Crossing of the Lusitania
+"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Uncategorized,17.81,1,In stock,43,David,,True,Low,Low,Available,[],"Underdogs, Misfits, and the Art of Battling Giants"
+Darkfever (Fever #1),Fantasy,56.02,1,In stock,43,Darkfever,1,True,Premium,Low,Available,['1'],
+Dark Places,Uncategorized,23.9,5,In stock,43,Dark,,False,Medium,High,Available,[],
+Crazy Rich Asians (Crazy Rich Asians #1),Fiction,49.13,5,In stock,43,Crazy,1,True,Premium,High,Available,['1'],
+Counting Thyme,Childrens,10.62,1,In stock,43,Counting,,False,Low,Low,Available,[],
+Cosmos,Uncategorized,36.17,2,In stock,43,Cosmos,,False,High,Low,Available,[],
+Civilization and Its Discontents,Psychology,59.95,2,In stock,44,Civilization,,False,Premium,Low,Available,[],
+Cinder (The Lunar Chronicles #1),Young Adult,26.09,1,In stock,44,Cinder,1,True,Medium,Low,Available,['1'],
+Catastrophic Happiness: Finding Joy in Childhood's Messy Years,Parenting,37.35,2,In stock,44,Catastrophic,,True,High,Low,Available,[],Finding Joy in Childhood's Messy Years
+Career of Evil (Cormoran Strike #3),Mystery,24.72,2,In stock,44,Career,3,True,Medium,Low,Available,['3'],
+Breaking Dawn (Twilight #4),Uncategorized,35.28,5,In stock,44,Breaking,4,True,Medium,High,Available,['4'],
+Brave Enough,Nonfiction,51.32,5,In stock,44,Brave,,False,Premium,High,Available,[],
+Boy Meets Boy,Young Adult,21.12,3,In stock,44,Boy,,False,Low,Average,Available,[],
+"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Nonfiction,27.35,2,In stock,44,Born,,True,Medium,Low,Available,[],"A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen"
+Blink: The Power of Thinking Without Thinking,Nonfiction,21.74,5,In stock,44,Blink,,True,Low,High,Available,[],The Power of Thinking Without Thinking
+Black Flags: The Rise of ISIS,Nonfiction,40.87,1,In stock,44,Black,,True,High,Low,Available,[],The Rise of ISIS
+"Black Butler, Vol. 1 (Black Butler #1)",Sequential Art,49.31,1,In stock,44,Black,1,True,Premium,Low,Available,"['1', '1']",
+Big Little Lies,Fiction,22.11,1,In stock,44,Big,,False,Medium,Low,Available,[],
+Between Shades of Gray,Historical Fiction,20.79,5,In stock,44,Between,,False,Low,High,Available,[],
+Best of My Love (Fool's Gold #20),Romance,27.41,2,In stock,44,Best,20,True,Medium,Low,Available,['20'],
+Beowulf,Classics,38.35,2,In stock,44,Beowulf,,False,High,Low,Available,[],
+Beautiful Creatures (Caster Chronicles #1),Uncategorized,21.55,5,In stock,44,Beautiful,1,True,Low,High,Available,['1'],
+Awkward,Sequential Art,38.02,2,In stock,44,Awkward,,False,High,Low,Available,[],
+Ash,Fantasy,22.06,4,In stock,44,Ash,,False,Low,High,Available,[],
+Are We There Yet?,Childrens,10.66,3,In stock,44,Are,,True,Low,Average,Available,[],
+Are We Smart Enough to Know How Smart Animals Are?,Nonfiction,56.58,1,In stock,44,Are,,True,Premium,Low,Available,[],
+Annie on My Mind,Young Adult,36.83,5,In stock,45,Annie,,False,High,High,Available,[],
+And Then There Were None,Classics,35.01,2,In stock,45,And,,False,Medium,Low,Available,[],
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Nonfiction,30.48,4,In stock,45,A,,True,Medium,High,Available,[],Rediscovering America on the Appalachian Trail
+A Visit from the Goon Squad,Uncategorized,14.08,5,In stock,45,A,,False,Low,High,Available,[],
+A Storm of Swords (A Song of Ice and Fire #3),Fantasy,31.22,2,In stock,45,A,3,True,Medium,Low,Available,['3'],
+A Heartbreaking Work of Staggering Genius,Autobiography,54.29,5,In stock,45,A,,False,Premium,High,Available,[],
+8 Keys to Mental Health Through Exercise,Psychology,31.04,1,In stock,45,8,8,False,Medium,Low,Available,['8'],
+#GIRLBOSS,Uncategorized,50.96,1,In stock,45,,,True,Premium,Low,Available,[],
+"The Suffragettes (Little Black Classics, #96)",Nonfiction,11.89,2,In stock,45,The,96,True,Low,Low,Available,['96'],
+The Sense of an Ending,Uncategorized,31.38,3,In stock,45,The,,False,Medium,Average,Available,[],
+"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",Sequential Art,54.81,1,In stock,45,The,2,True,Premium,Low,Available,"['2', '2']",The Doll's House (The Sandman (volumes) #2)
+The Course of Love,Fiction,16.78,3,In stock,45,The,,False,Low,Average,Available,[],
+Sugar Rush (Offensive Line #2),Sports and Games,24.42,1,In stock,45,Sugar,2,True,Medium,Low,Available,['2'],
+"Saga, Volume 2 (Saga (Collected Editions) #2)",Sequential Art,11.75,3,In stock,45,Saga,2,True,Low,Average,Available,"['2', '2']",
+"Run, Spot, Run: The Ethics of Keeping Pets",Philosophy,20.02,1,In stock,45,Run,,True,Low,Low,Available,[],The Ethics of Keeping Pets
+New Moon (Twilight #2),Young Adult,12.86,4,In stock,45,New,2,True,Low,High,Available,['2'],
+Life,Music,31.58,5,In stock,45,Life,,False,Medium,High,Available,[],
+Kindle Paperwhite User's Guide,Nonfiction,34.0,3,In stock,45,Kindle,,True,Medium,Average,Available,[],
+H is for Hawk,Nonfiction,57.42,5,In stock,45,H,,False,Premium,High,Available,[],
+Girl Online On Tour (Girl Online #2),Young Adult,53.47,1,In stock,45,Girl,2,True,Premium,Low,Available,['2'],
+"Fruits Basket, Vol. 2 (Fruits Basket #2)",Sequential Art,11.64,5,In stock,46,Fruits,2,True,Low,High,Available,"['2', '2']",
+Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),Childrens,52.88,4,In stock,46,Diary,1,True,Premium,High,Available,['1'],A Scare of a Dare (An Unofficial Minecraft Book)
+"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",Sequential Art,18.51,4,In stock,46,Y,1,True,Low,High,Available,"['1', '1']","The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)"
+While You Were Mine,Historical Fiction,41.32,5,In stock,46,While,,False,High,High,Available,[],
+Where Lightning Strikes (Bleeding Stars #3),Romance,39.77,3,In stock,46,Where,3,True,High,Average,Available,['3'],
+When I'm Gone,Fiction,51.96,3,In stock,46,When,,True,Premium,Average,Available,[],
+Ways of Seeing,Art,39.51,5,In stock,46,Ways,,False,High,High,Available,[],
+"Vampire Knight, Vol. 1 (Vampire Knight #1)",Paranormal,15.4,1,In stock,46,Vampire,1,True,Low,Low,Available,"['1', '1']",
+Vampire Girl (Vampire Girl #1),Fantasy,53.82,2,In stock,46,Vampire,1,True,Premium,Low,Available,['1'],
+Twenty Love Poems and a Song of Despair,Poetry,30.95,4,In stock,46,Twenty,,False,Medium,High,Available,[],
+Travels with Charley: In Search of America,Nonfiction,57.82,5,In stock,46,Travels,,True,Premium,High,Available,[],In Search of America
+Three Wishes (River of Time: California #1),Science Fiction,44.18,2,In stock,46,Three,1,True,High,Low,Available,['1'],California #1)
+This One Moment (Pushing Limits #1),Romance,48.71,1,In stock,46,This,1,True,Premium,Low,Available,['1'],
+The Zombie Room,Uncategorized,19.69,5,In stock,46,The,,False,Low,High,Available,[],
+"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",Sequential Art,36.52,2,In stock,46,The,1,True,High,Low,Available,['1'],The Faust Act (The Wicked + The Divine)
+The Tumor,Nonfiction,41.56,5,In stock,46,The,,False,High,High,Available,[],
+The Story of Hong Gildong,Classics,43.19,4,In stock,46,The,,False,High,High,Available,[],
+The Silent Wife,Fiction,12.34,5,In stock,46,The,,False,Low,High,Available,[],
+The Silent Twin (Detective Jennifer Knight #3),Fantasy,36.25,3,In stock,46,The,3,True,High,Average,Available,['3'],
+The Selfish Gene,Science,29.45,1,In stock,46,The,,False,Medium,Low,Available,[],
+The Secret Healer,Historical Fiction,34.56,3,In stock,47,The,,False,Medium,Average,Available,[],
+"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",Sequential Art,54.12,3,In stock,47,The,1,True,Premium,Average,Available,"['1', '1']",Preludes and Nocturnes (The Sandman (volumes) #1)
+The Republic,Uncategorized,33.78,3,In stock,47,The,,False,Medium,Average,Available,[],
+The Odyssey,Uncategorized,29.64,3,In stock,47,The,,False,Medium,Average,Available,[],
+The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),Mystery,57.7,4,In stock,47,The,1,True,Premium,High,Available,"['1', '1', '1']",
+The Nicomachean Ethics,Philosophy,36.34,1,In stock,47,The,,False,High,Low,Available,[],
+The Name of the Wind (The Kingkiller Chronicle #1),Uncategorized,50.59,3,In stock,47,The,1,True,Premium,Average,Available,['1'],
+The Mirror & the Maze (The Wrath and the Dawn #1.5),Fantasy,29.38,1,In stock,47,The,1,True,Medium,Low,Available,"['1', '5']",
+The Little Prince,Classics,45.42,2,In stock,47,The,,False,High,Low,Available,[],
+The Light of the Fireflies,Uncategorized,54.43,1,In stock,47,The,,False,Premium,Low,Available,[],
+The Last Girl (The Dominion Trilogy #1),Science Fiction,36.26,2,In stock,47,The,1,True,High,Low,Available,['1'],
+The Iliad,Uncategorized,16.16,1,In stock,47,The,,False,Low,Low,Available,[],
+The Hook Up (Game On #1),New Adult,36.29,5,In stock,47,The,1,True,High,High,Available,['1'],
+The Haters,Young Adult,27.89,5,In stock,47,The,,False,Medium,High,Available,[],
+The Girl You Lost,Mystery,12.29,5,In stock,47,The,,False,Low,High,Available,[],
+The Girl In The Ice (DCI Erika Foster #1),Mystery,15.85,3,In stock,47,The,1,True,Low,Average,Available,['1'],
+The End of the Jesus Era (An Investigation #1),Nonfiction,14.4,1,In stock,47,The,1,True,Low,Low,Available,['1'],
+The Edge of Reason (Bridget Jones #2),Womens Fiction,19.18,4,In stock,47,The,2,True,Low,High,Available,['2'],
+The Complete Maus (Maus #1-2),Sequential Art,10.64,3,In stock,47,The,1,True,Low,Average,Available,"['1', '2']",
+The Communist Manifesto,Uncategorized,14.76,3,In stock,47,The,,False,Low,Average,Available,[],
+The Bhagavad Gita,Religion,57.49,3,In stock,48,The,,False,Premium,Average,Available,[],
+The Bette Davis Club,Fiction,30.66,3,In stock,48,The,,False,Medium,Average,Available,[],
+The Art of Not Breathing,Young Adult,40.83,4,In stock,48,The,,False,High,High,Available,[],
+Taking Shots (Assassins #1),Uncategorized,18.88,2,In stock,48,Taking,1,True,Low,Low,Available,['1'],
+Starlark,Historical Fiction,25.83,3,In stock,48,Starlark,,False,Medium,Average,Available,[],
+"Skip Beat!, Vol. 01 (Skip Beat! #1)",Sequential Art,42.12,3,In stock,48,Skip,01,True,High,Average,Available,"['01', '1']",
+Sister Sable (The Mad Queen #1),Fantasy,13.33,3,In stock,48,Sister,1,True,Low,Average,Available,['1'],
+Shatter Me (Shatter Me #1),Uncategorized,42.4,1,In stock,48,Shatter,1,True,High,Low,Available,['1'],
+Shameless,New Adult,58.35,3,In stock,48,Shameless,,False,Premium,Average,Available,[],
+Shadow Rites (Jane Yellowrock #10),Fantasy,21.72,4,In stock,48,Shadow,10,True,Low,High,Available,['10'],
+Settling the Score (The Summer Games #1),Sports and Games,44.91,2,In stock,48,Settling,1,True,High,Low,Available,['1'],
+Sense and Sensibility,Classics,37.46,1,In stock,48,Sense,,False,High,Low,Available,[],
+"Saga, Volume 1 (Saga (Collected Editions) #1)",Sequential Art,28.48,1,In stock,48,Saga,1,True,Medium,Low,Available,"['1', '1']",
+"Rhythm, Chord & Malykhin",Romance,28.34,2,In stock,48,Rhythm,,True,Medium,Low,Available,[],
+"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",Sequential Art,46.96,5,In stock,48,Rat,1,True,High,High,Available,"['1', '1', '5']",Sass & Sorcery (Rat Queens (Collected Editions) #1-5)
+Paradise Lost (Paradise #1),Uncategorized,24.96,1,In stock,48,Paradise,1,True,Medium,Low,Available,['1'],
+"Paper Girls, Vol. 1 (Paper Girls #1-5)",Sequential Art,21.71,4,In stock,48,Paper,1,True,Low,High,Available,"['1', '1', '5']",
+"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",Sequential Art,29.87,3,In stock,48,Ouran,1,True,Medium,Average,Available,"['1', '1']",
+Origins (Alphas 0.5),Fantasy,28.99,1,In stock,48,Origins,0,True,Medium,Low,Available,"['0', '5']",
+One Second (Seven #7),Fantasy,52.94,2,In stock,48,One,7,True,Premium,Low,Available,['7'],
+On the Road (Duluoz Legend),Uncategorized,32.36,3,In stock,49,On,,True,Medium,Average,Available,[],
+Old Records Never Die: One Man's Quest for His Vinyl and His Past,Music,55.66,2,In stock,49,Old,,True,Premium,Low,Available,[],One Man's Quest for His Vinyl and His Past
+Off Sides (Off #1),New Adult,39.45,5,In stock,49,Off,1,True,High,High,Available,['1'],
+Of Mice and Men,Classics,47.11,2,In stock,49,Of,,False,High,Low,Available,[],
+Myriad (Prentor #1),Fantasy,58.75,4,In stock,49,Myriad,1,True,Premium,High,Available,['1'],
+My Perfect Mistake (Over the Top #1),Romance,38.92,2,In stock,49,My,1,True,High,Low,Available,['1'],
+"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",Sequential Art,39.39,4,In stock,49,Ms,1,True,High,High,Available,"['1', '2014', '2015', '1']",No Normal (Ms. Marvel (2014-2015) #1)
+Meditations,Philosophy,25.89,2,In stock,49,Meditations,,False,Medium,Low,Available,[],
+Matilda,Childrens,28.34,1,In stock,49,Matilda,,False,Medium,Low,Available,[],
+Lost Among the Living,Historical Fiction,27.7,4,In stock,49,Lost,,False,Medium,High,Available,[],
+Lord of the Flies,Uncategorized,24.89,3,In stock,49,Lord,,False,Medium,Average,Available,[],
+Listen to Me (Fusion #1),Romance,58.99,3,In stock,49,Listen,1,True,Premium,Average,Available,['1'],
+Kitchens of the Great Midwest,Fiction,57.2,5,In stock,49,Kitchens,,False,Premium,High,Available,[],
+Jane Eyre,Uncategorized,38.43,5,In stock,49,Jane,,False,High,High,Available,[],
+Imperfect Harmony,Romance,34.74,4,In stock,49,Imperfect,,False,Medium,High,Available,[],
+Icing (Aces Hockey #2),Sports and Games,40.44,4,In stock,49,Icing,2,True,High,High,Available,['2'],
+"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",Sequential Art,45.24,3,In stock,49,Hawkeye,1,True,High,Average,Available,"['1', '1']",My Life as a Weapon (Hawkeye #1)
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5),Science Fiction,34.96,4,In stock,49,Having,7,True,Medium,High,Available,"['7', '5']",
+"Giant Days, Vol. 1 (Giant Days #1-4)",Sequential Art,56.76,4,In stock,49,Giant,1,True,Premium,High,Available,"['1', '1', '4']",
+"Fruits Basket, Vol. 1 (Fruits Basket #1)",Sequential Art,40.28,5,In stock,49,Fruits,1,True,High,High,Available,"['1', '1']",
+Frankenstein,Uncategorized,38.0,2,In stock,50,Frankenstein,,False,High,Low,Available,[],
+Forever Rockers (The Rocker #12),Music,28.8,3,In stock,50,Forever,12,True,Medium,Average,Available,['12'],
+Fighting Fate (Fighting #6),Romance,39.24,3,In stock,50,Fighting,6,True,High,Average,Available,['6'],
+Emma,Classics,32.93,2,In stock,50,Emma,,False,Medium,Low,Available,[],
+"Eat, Pray, Love",Nonfiction,51.32,3,In stock,50,Eat,,True,Premium,Average,Available,[],
+Deep Under (Walker Security #1),Romance,47.09,5,In stock,50,Deep,1,True,High,High,Available,['1'],
+Choosing Our Religion: The Spiritual Lives of America's Nones,Religion,28.42,4,In stock,50,Choosing,,True,Medium,High,Available,[],The Spiritual Lives of America's Nones
+Charlie and the Chocolate Factory (Charlie Bucket #1),Childrens,22.85,3,In stock,50,Charlie,1,True,Medium,Average,Available,['1'],
+Charity's Cross (Charles Towne Belles #4),Romance,41.24,1,In stock,50,Charity,4,True,High,Low,Available,['4'],
+Bright Lines,Fiction,39.07,5,In stock,50,Bright,,False,High,High,Available,[],
+Bridget Jones's Diary (Bridget Jones #1),Womens Fiction,29.82,1,In stock,50,Bridget,1,True,Medium,Low,Available,['1'],
+Bounty (Colorado Mountain #7),Romance,37.26,4,In stock,50,Bounty,7,True,High,High,Available,['7'],
+Blood Defense (Samantha Brinkman #1),Mystery,20.3,3,In stock,50,Blood,1,True,Low,Average,Available,['1'],
+"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",Sequential Art,34.65,5,In stock,50,Bleach,1,True,Medium,High,Available,"['1', '1']",Strawberry and the Soul Reapers (Bleach #1)
+Beyond Good and Evil,Philosophy,43.38,1,In stock,50,Beyond,,False,High,Low,Available,[],
+Alice in Wonderland (Alice's Adventures in Wonderland #1),Classics,55.53,1,In stock,50,Alice,1,True,Premium,Low,Available,['1'],
+"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",Sequential Art,57.06,4,In stock,50,Ajin,1,True,Premium,High,Available,"['1', '1']","Demi-Human, Volume 1 (Ajin: Demi-Human #1)"
+A Spy's Devotion (The Regency Spies of London #1),Historical Fiction,16.97,5,In stock,50,A,1,True,Low,High,Available,['1'],
+1st to Die (Women's Murder Club #1),Mystery,53.98,1,In stock,50,1st,1,True,Premium,Low,Available,"['1', '1']",
+"1,000 Places to See Before You Die",Travel,26.08,5,In stock,50,1,1,True,Medium,High,Available,"['1', '000']",
