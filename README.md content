@@ -1,0 +1,41 @@
+# 📚 Books Market Analysis
+
+## 📌 Project Overview
+Books Market Analysis is an end-to-end data analytics project focused on collecting, cleaning, and analyzing book market data using Python.
+
+The project uses web scraping and Exploratory Data Analysis (EDA) to understand book information and discover useful insights through visualizations.
+
+## 🎯 Project Objectives
+- Collect book data using web scraping.
+- Clean and preprocess the scraped dataset.
+- Perform Exploratory Data Analysis.
+- Create visualizations to understand the data.
+- Generate meaningful insights from the analysis.
+
+## 🛠️ Technologies Used
+- Python
+- Requests
+- BeautifulSoup
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## 📂 Project Structure
+- `Books_Market_Analysis.ipynb` – Complete project notebook.
+- `books_scraped.csv` – Raw scraped dataset.
+- `books_cleaned.csv` – Cleaned dataset.
+- `Visualizations/` – Generated charts and graphs.
+
+## 📊 Visualizations
+All generated charts and graphs are available in the Visualizations folder.
+
+## 📈 Key Outcomes
+- Collected book market data.
+- Performed data cleaning and preprocessing.
+- Analyzed the available book dataset.
+- Created visualizations to present findings.
+
+## 👩‍💻 Author
+**Mahek Gadpelliwar
